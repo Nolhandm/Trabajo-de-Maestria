@@ -20,3 +20,37 @@ Eastern Asia and South-Eastern Asia (UN)
 Southern Asia (UN)
 South-East Asia (WHO)
 Sub-Saharan Africa (UN)
+South Asia (WB)
+East Asia and Pacific (WB)
+Curacao
+New Caledonia
+Macao
+Sint Maarten (Dutch part)
+Gibraltar
+British Virgin Islands
+Low-income countries
+Hong Kong
+Kosovo
+Guam
+Lower-middle-income countries
+Puerto Rico
+Sub-Saharan Africa (WB)
+Northern Mariana Islands
+Faeroe Islands
+North America (WB)
+Isle of Man
+Palestine
+Cayman Islands
+Greenland
+French Polynesia
+Bermuda
+Channel Islands
+Middle East and North Africa (WB)
+Turks and Caicos Islands
+United States Virgin Islands
+Aruba
+Upper-middle-income countries
+High-income countries
+Europe and Central Asia (WB)
+Saint Martin (French part)
+Latin America and Caribbean (WB)
