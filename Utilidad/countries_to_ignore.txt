@@ -54,3 +54,59 @@ High-income countries
 Europe and Central Asia (WB)
 Saint Martin (French part)
 Latin America and Caribbean (WB)
+Faroe Islands
+China, Hong Kong SAR
+Western Europe
+Low Income Food Deficit Countries (LIFDCs)
+Central Asia
+USSR
+China, mainland
+Western Asia
+Small Island Developing States (SIDS)
+China, Taiwan Province of
+Pacific Islands Trust Territory
+Northern Europe
+Oceania
+Eastern Asia
+Norfolk Island
+Melanesia
+Guadeloupe
+Northern Africa
+Wallis and Futuna Islands
+Yugoslav SFR
+Land Locked Developing Countries (LLDCs)
+Saint Pierre and Miquelon
+South-eastern Asia
+Polynesia
+Least Developed Countries (LDCs)
+American Samoa
+Ascension, Saint Helena and Tristan da Cunha
+Australia and New Zealand
+Europe
+Asia
+Czechoslovakia
+Falkland Islands (Malvinas)
+Southern Europe
+Mayotte
+Western Africa
+Americas
+Martinique
+South America
+Belgium-Luxembourg
+Western Sahara
+Northern America
+Africa
+French Guiana
+Serbia and Montenegro
+Middle Africa
+Caribbean
+Eastern Europe
+RÃ©union
+Eastern Africa
+Montserrat
+Southern Asia
+Central America
+Southern Africa
+Netherlands Antilles (former)
+Tokelau
+Net Food Importing Developing Countries (NFIDCs)
