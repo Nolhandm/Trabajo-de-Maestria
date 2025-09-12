@@ -148,3 +148,15 @@ Asia (Ember)
 OECD (Ember)
 Middle East (EI)
 OECD (EI)
+Scotland
+Northern Africa (FAO)
+Saint Barthelemy
+Europe (FAO)
+Africa (FAO)
+Asia (FAO)
+Caribbean (FAO)
+England
+Central America (FAO)
+Oceania (FAO)
+Vatican
+South America (FAO)
