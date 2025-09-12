@@ -110,3 +110,14 @@ Southern Africa
 Netherlands Antilles (former)
 Tokelau
 Net Food Importing Developing Countries (NFIDCs)
+R?union
+Saint Helena
+Bonaire Sint Eustatius and Saba
+Anguilla
+Asia (excl. China and India)
+Europe (excl. EU-28)
+Taiwan
+Wallis and Futuna
+North America (excl. USA)
+Europe (excl. EU-27)
+European Union (28)
