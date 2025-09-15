@@ -5,6 +5,7 @@
     "Bolivia (Plurinational State of)" : "Bolivia",
     "Republic of Korea" : "Korea, Rep.",
     "South Korea" : "Korea, Rep.",
+    "Korea" : "Korea, Rep.",
     "North Korea" : "Korea, Dem. People's Rep.",
     "Democratic People's Republic of Korea" : "Korea, Dem. People's Rep.",
     "Micronesia" : "Micronesia, Fed. Sts.",
@@ -46,4 +47,7 @@
     "East Timor" : "Timor-Leste",
     "Vietnam" : "Viet Nam",
     "China, mainland" : "China",
-    "Sudan (former)" : "Sudan"}
+    "Sudan (former)" : "Sudan",
+    "The Gambia" : "Gambia, The",
+    "SÃ£o TomÃ© and Principe":"Sao Tome and Principe",
+    "Dem. Rep. Congo":"Congo, Dem. Rep."}
