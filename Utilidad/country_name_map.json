@@ -22,7 +22,7 @@
     "Turkey" : "Turkiye",
     "TÃ¼rkiye" : "Turkiye",
     "T?rkiye" : "Turkiye",
-    "T rkiye" : "Turkiye",
+    "T\uFFFDrkiye": "Turkiye",
     "Least Developed Countries" : "Least developed countries: UN classification",
     "Slovakia" : "Slovak Republic",
     "Democratic Republic of the Congo":"Congo, Dem. Rep.",
