@@ -1,614 +1,613 @@
-"Level of water stress: freshwater withdrawal as a proportion of available freshwater resources, %"
 Country_ID, Country_E, Indicator_Id, Indicator_E, Period, Value
-"352","Iceland","T","Total","2011","0.38"
-"352","Iceland","T","Total","2012","0.4"
-"352","Iceland","T","Total","2013","0.4"
-"643","Russian Federation","T","Total","2011","3.93"
-"643","Russian Federation","T","Total","2012","4.07"
-"643","Russian Federation","T","Total","2013","3.88"
-"643","Russian Federation","T","Total","2014","4.5"
-"643","Russian Federation","T","Total","2015","3.97"
-"380","Italy","T","Total","2011","29.79"
-"380","Italy","T","Total","2012","29.88"
-"380","Italy","T","Total","2013","29.94"
-"380","Italy","T","Total","2014","29.93"
-"380","Italy","T","Total","2015","29.92"
-"380","Italy","T","Total","2016","29.84"
-"380","Italy","T","Total","2017","29.76"
-"380","Italy","T","Total","2018","29.68"
-"380","Italy","T","Total","2019","29.82"
-"380","Italy","T","Total","2020","29.8"
-"380","Italy","T","Total","2021","29.78"
-"380","Italy","T","Total","2022","29.77"
-"643","Russian Federation","T","Total","2016","4.12"
-"643","Russian Federation","T","Total","2017","4.1"
-"643","Russian Federation","T","Total","2018","4.12"
-"643","Russian Federation","T","Total","2019","4.12"
-"643","Russian Federation","T","Total","2020","4.12"
-"643","Russian Federation","T","Total","2021","4.12"
-"643","Russian Federation","T","Total","2022","4.12"
-"470","Malta","T","Total","2011","75.45"
-"008","Albania","T","Total","2012","6.76"
-"008","Albania","T","Total","2013","6.61"
-"008","Albania","T","Total","2014","6.46"
-"008","Albania","T","Total","2015","5.53"
-"008","Albania","T","Total","2016","6.56"
-"008","Albania","T","Total","2017","6.56"
-"008","Albania","T","Total","2018","5.76"
-"008","Albania","T","Total","2019","6.8"
-"008","Albania","T","Total","2020","4.72"
-"008","Albania","T","Total","2021","4.78"
-"008","Albania","T","Total","2022","4.79"
-"440","Lithuania","T","Total","2022","1.83"
-"705","Slovenia","T","Total","2011","5.75"
-"428","Latvia","T","Total","2019","1.05"
-"428","Latvia","T","Total","2020","1.07"
-"428","Latvia","T","Total","2021","1.09"
-"428","Latvia","T","Total","2022","1.02"
-"705","Slovenia","T","Total","2012","6.27"
-"705","Slovenia","T","Total","2013","7.81"
-"705","Slovenia","T","Total","2014","6.63"
-"705","Slovenia","T","Total","2015","6.06"
-"705","Slovenia","T","Total","2016","6"
-"705","Slovenia","T","Total","2017","6.3"
-"705","Slovenia","T","Total","2018","6.5"
-"705","Slovenia","T","Total","2019","6.38"
-"705","Slovenia","T","Total","2020","6.78"
-"705","Slovenia","T","Total","2021","6.29"
-"705","Slovenia","T","Total","2022","5.59"
-"372","Ireland","T","Total","2011","4.36"
-"372","Ireland","T","Total","2012","4.72"
-"372","Ireland","T","Total","2013","5.08"
-"372","Ireland","T","Total","2014","5.43"
-"372","Ireland","T","Total","2015","5.79"
-"372","Ireland","T","Total","2016","6.15"
-"372","Ireland","T","Total","2017","6.51"
-"372","Ireland","T","Total","2018","6.87"
-"372","Ireland","T","Total","2019","7.4"
-"372","Ireland","T","Total","2020","7.43"
-"372","Ireland","T","Total","2021","7.61"
-"372","Ireland","T","Total","2022","8.05"
-"642","Romania","T","Total","2011","6.17"
-"642","Romania","T","Total","2012","6.07"
-"642","Romania","T","Total","2013","6.01"
-"642","Romania","T","Total","2014","5.88"
-"642","Romania","T","Total","2015","6.05"
-"642","Romania","T","Total","2016","5.97"
-"642","Romania","T","Total","2017","6.34"
-"642","Romania","T","Total","2018","6.01"
-"642","Romania","T","Total","2019","6.55"
-"642","Romania","T","Total","2020","6.92"
-"642","Romania","T","Total","2021","7.36"
-"642","Romania","T","Total","2022","7.63"
-"442","Luxembourg","T","Total","2011","3.84"
-"442","Luxembourg","T","Total","2012","3.7"
-"442","Luxembourg","T","Total","2013","3.57"
-"442","Luxembourg","T","Total","2014","3.81"
-"442","Luxembourg","T","Total","2015","3.71"
-"442","Luxembourg","T","Total","2016","3.68"
-"442","Luxembourg","T","Total","2017","3.78"
-"442","Luxembourg","T","Total","2018","4.33"
-"442","Luxembourg","T","Total","2019","4.09"
-"442","Luxembourg","T","Total","2020","3.96"
-"442","Luxembourg","T","Total","2021","3.96"
-"442","Luxembourg","T","Total","2022","3.96"
-"470","Malta","T","Total","2020","81.78"
-"470","Malta","T","Total","2021","78.47"
-"470","Malta","T","Total","2022","72.6"
-"840","United States","T","Total","2021","28.16"
-"840","United States","T","Total","2022","28.16"
-"208","Denmark","T","Total","2011","23.41"
-"208","Denmark","T","Total","2012","19.7"
-"208","Denmark","T","Total","2013","27.29"
-"826","United Kingdom","T","Total","2011","13.1"
-"826","United Kingdom","T","Total","2012","13.67"
-"826","United Kingdom","T","Total","2013","13.05"
-"826","United Kingdom","T","Total","2014","12.42"
-"826","United Kingdom","T","Total","2015","13.91"
-"826","United Kingdom","T","Total","2016","14.35"
-"826","United Kingdom","T","Total","2017","14.35"
-"826","United Kingdom","T","Total","2018","14.35"
-"826","United Kingdom","T","Total","2019","14.35"
-"826","United Kingdom","T","Total","2020","14.35"
-"826","United Kingdom","T","Total","2021","14.35"
-"826","United Kingdom","T","Total","2022","14.35"
-"352","Iceland","T","Total","2014","0.37"
-"352","Iceland","T","Total","2015","0.38"
-"352","Iceland","T","Total","2016","0.35"
-"352","Iceland","T","Total","2017","0.39"
-"352","Iceland","T","Total","2018","0.39"
-"352","Iceland","T","Total","2019","0.39"
-"352","Iceland","T","Total","2020","0.39"
-"352","Iceland","T","Total","2021","0.39"
-"352","Iceland","T","Total","2022","0.39"
-"578","Norway","T","Total","2011","2.11"
-"578","Norway","T","Total","2012","2.08"
-"578","Norway","T","Total","2013","2.09"
-"578","Norway","T","Total","2014","2.11"
-"578","Norway","T","Total","2015","2.06"
-"578","Norway","T","Total","2016","2.01"
-"578","Norway","T","Total","2017","2.05"
-"578","Norway","T","Total","2018","2.04"
-"578","Norway","T","Total","2019","2.04"
-"578","Norway","T","Total","2020","2.04"
-"578","Norway","T","Total","2021","2.01"
-"578","Norway","T","Total","2022","2.01"
-"196","Cyprus","T","Total","2011","30.18"
-"196","Cyprus","T","Total","2012","34.9"
-"196","Cyprus","T","Total","2013","28.27"
-"196","Cyprus","T","Total","2014","29.66"
-"196","Cyprus","T","Total","2015","31.71"
-"196","Cyprus","T","Total","2016","29.8"
-"196","Cyprus","T","Total","2017","29.52"
-"196","Cyprus","T","Total","2018","28.29"
-"196","Cyprus","T","Total","2019","27.61"
-"196","Cyprus","T","Total","2020","31.57"
-"196","Cyprus","T","Total","2021","32.12"
-"196","Cyprus","T","Total","2022","30.48"
-"724","Spain","T","Total","2011","47.81"
-"724","Spain","T","Total","2012","50.1"
-"724","Spain","T","Total","2013","44.1"
-"724","Spain","T","Total","2014","44.8"
-"724","Spain","T","Total","2015","42.96"
-"724","Spain","T","Total","2016","42.56"
-"724","Spain","T","Total","2017","41.03"
-"724","Spain","T","Total","2018","40.09"
-"724","Spain","T","Total","2019","39.83"
-"724","Spain","T","Total","2020","43.25"
-"724","Spain","T","Total","2021","43.25"
-"724","Spain","T","Total","2022","43.25"
-"703","Slovakia","T","Total","2011","2.55"
-"703","Slovakia","T","Total","2012","2.86"
-"703","Slovakia","T","Total","2013","2.74"
-"703","Slovakia","T","Total","2014","2.41"
-"703","Slovakia","T","Total","2015","2.47"
-"703","Slovakia","T","Total","2016","2.39"
-"528","Netherlands","T","Total","2011","19.35"
-"528","Netherlands","T","Total","2012","20.35"
-"528","Netherlands","T","Total","2013","20.2"
-"528","Netherlands","T","Total","2014","18.02"
-"528","Netherlands","T","Total","2015","15.97"
-"528","Netherlands","T","Total","2016","15.23"
-"528","Netherlands","T","Total","2017","15.03"
-"528","Netherlands","T","Total","2018","16.37"
-"528","Netherlands","T","Total","2019","17"
-"528","Netherlands","T","Total","2020","16.8"
-"528","Netherlands","T","Total","2021","16.08"
-"528","Netherlands","T","Total","2022","16.66"
-"470","Malta","T","Total","2012","79.41"
-"470","Malta","T","Total","2013","91.29"
-"470","Malta","T","Total","2014","89.11"
-"470","Malta","T","Total","2015","82.77"
-"470","Malta","T","Total","2016","82.97"
-"470","Malta","T","Total","2017","91.09"
-"470","Malta","T","Total","2018","84.62"
-"470","Malta","T","Total","2019","80.66"
-"860","Uzbekistan","T","Total","2011","143.47"
-"860","Uzbekistan","T","Total","2012","143.88"
-"860","Uzbekistan","T","Total","2013","144.29"
-"860","Uzbekistan","T","Total","2014","144.71"
-"860","Uzbekistan","T","Total","2015","158.13"
-"860","Uzbekistan","T","Total","2016","156.44"
-"860","Uzbekistan","T","Total","2017","168.91"
-"860","Uzbekistan","T","Total","2018","160.38"
-"860","Uzbekistan","T","Total","2019","151.84"
-"860","Uzbekistan","T","Total","2020","143.26"
-"860","Uzbekistan","T","Total","2021","121.84"
-"860","Uzbekistan","T","Total","2022","121.84"
-"498","Republic of Moldova","T","Total","2011","12.58"
-"498","Republic of Moldova","T","Total","2012","12.62"
-"498","Republic of Moldova","T","Total","2013","12.46"
-"498","Republic of Moldova","T","Total","2014","12.43"
-"498","Republic of Moldova","T","Total","2015","12.47"
-"498","Republic of Moldova","T","Total","2016","12.52"
-"498","Republic of Moldova","T","Total","2017","12.47"
-"498","Republic of Moldova","T","Total","2018","12.43"
-"498","Republic of Moldova","T","Total","2019","12.46"
-"498","Republic of Moldova","T","Total","2020","12.56"
-"498","Republic of Moldova","T","Total","2021","12.56"
-"498","Republic of Moldova","T","Total","2022","12.56"
-"792","Türkiye","T","Total","2011","36.2"
-"792","Türkiye","T","Total","2012","37.52"
-"792","Türkiye","T","Total","2013","38.06"
-"792","Türkiye","T","Total","2014","38.6"
-"792","Türkiye","T","Total","2015","39.89"
-"792","Türkiye","T","Total","2016","44.28"
-"792","Türkiye","T","Total","2017","43.67"
-"792","Türkiye","T","Total","2018","45.38"
-"792","Türkiye","T","Total","2019","46.28"
-"792","Türkiye","T","Total","2020","47.16"
-"792","Türkiye","T","Total","2021","43.38"
-"792","Türkiye","T","Total","2022","44.1"
-"100","Bulgaria","T","Total","2011","47.19"
-"100","Bulgaria","T","Total","2012","42.24"
-"100","Bulgaria","T","Total","2013","40.42"
-"100","Bulgaria","T","Total","2014","39.74"
-"100","Bulgaria","T","Total","2015","41.61"
-"100","Bulgaria","T","Total","2016","42.05"
-"100","Bulgaria","T","Total","2017","41.82"
-"100","Bulgaria","T","Total","2018","40.1"
-"100","Bulgaria","T","Total","2019","40.08"
-"100","Bulgaria","T","Total","2020","36.73"
-"100","Bulgaria","T","Total","2021","38.52"
-"100","Bulgaria","T","Total","2022","40.24"
-"191","Croatia","T","Total","2011","1.48"
-"191","Croatia","T","Total","2012","1.45"
-"191","Croatia","T","Total","2013","1.4"
-"191","Croatia","T","Total","2014","1.29"
-"191","Croatia","T","Total","2015","1.38"
-"191","Croatia","T","Total","2016","1.42"
-"191","Croatia","T","Total","2017","1.5"
-"191","Croatia","T","Total","2018","1.49"
-"191","Croatia","T","Total","2019","1.49"
-"191","Croatia","T","Total","2020","1.46"
-"191","Croatia","T","Total","2021","1.48"
-"191","Croatia","T","Total","2022","1.51"
-"031","Azerbaijan","T","Total","2011","49.88"
-"031","Azerbaijan","T","Total","2012","52.88"
-"031","Azerbaijan","T","Total","2013","52.97"
-"031","Azerbaijan","T","Total","2014","51.19"
-"031","Azerbaijan","T","Total","2015","51.62"
-"031","Azerbaijan","T","Total","2016","52.45"
-"031","Azerbaijan","T","Total","2017","53.52"
-"031","Azerbaijan","T","Total","2018","53.73"
-"031","Azerbaijan","T","Total","2019","55.6"
-"031","Azerbaijan","T","Total","2020","53.89"
-"031","Azerbaijan","T","Total","2021","57.27"
-"031","Azerbaijan","T","Total","2022","57.53"
-"208","Denmark","T","Total","2014","26.75"
-"208","Denmark","T","Total","2015","21.95"
-"208","Denmark","T","Total","2016","23.99"
-"208","Denmark","T","Total","2017","24.22"
-"208","Denmark","T","Total","2018","29.9"
-"208","Denmark","T","Total","2019","25.57"
-"208","Denmark","T","Total","2020","25.62"
-"208","Denmark","T","Total","2021","25.94"
-"208","Denmark","T","Total","2022","25.27"
-"246","Finland","T","Total","2011","10.51"
-"246","Finland","T","Total","2012","9.5"
-"246","Finland","T","Total","2013","8.49"
-"246","Finland","T","Total","2014","7.48"
-"246","Finland","T","Total","2015","6.46"
-"246","Finland","T","Total","2016","5.45"
-"246","Finland","T","Total","2017","5.45"
-"246","Finland","T","Total","2018","6.64"
-"246","Finland","T","Total","2019","7.11"
-"246","Finland","T","Total","2020","7.11"
-"246","Finland","T","Total","2021","7.11"
-"246","Finland","T","Total","2022","7.11"
-"276","Germany","T","Total","2011","49.92"
-"276","Germany","T","Total","2012","46.12"
-"276","Germany","T","Total","2013","34.71"
-"276","Germany","T","Total","2014","42.91"
-"276","Germany","T","Total","2015","40.89"
-"276","Germany","T","Total","2016","33.5"
-"276","Germany","T","Total","2017","38.03"
-"276","Germany","T","Total","2018","36.9"
-"276","Germany","T","Total","2019","35.35"
-"276","Germany","T","Total","2020","35.35"
-"276","Germany","T","Total","2021","35.35"
-"276","Germany","T","Total","2022","35.35"
-"250","France","T","Total","2011","26.39"
-"250","France","T","Total","2012","24.57"
-"250","France","T","Total","2013","23.77"
-"250","France","T","Total","2014","23.9"
-"250","France","T","Total","2015","24.61"
-"250","France","T","Total","2016","23.14"
-"250","France","T","Total","2017","23.59"
-"250","France","T","Total","2018","23.57"
-"250","France","T","Total","2019","22.95"
-"250","France","T","Total","2020","21.6"
-"250","France","T","Total","2021","21.38"
-"250","France","T","Total","2022","21.38"
-"300","Greece","T","Total","2011","20.1"
-"300","Greece","T","Total","2012","20.1"
-"300","Greece","T","Total","2013","20.08"
-"300","Greece","T","Total","2014","20.06"
-"300","Greece","T","Total","2015","20.04"
-"300","Greece","T","Total","2016","20.51"
-"300","Greece","T","Total","2017","20.5"
-"300","Greece","T","Total","2018","20.48"
-"300","Greece","T","Total","2019","20.46"
-"300","Greece","T","Total","2020","20.48"
-"300","Greece","T","Total","2021","20.41"
-"300","Greece","T","Total","2022","20.33"
-"616","Poland","T","Total","2011","41.23"
-"616","Poland","T","Total","2012","39.7"
-"616","Poland","T","Total","2013","38.91"
-"616","Poland","T","Total","2014","36.8"
-"616","Poland","T","Total","2015","36.16"
-"616","Poland","T","Total","2016","35.61"
-"616","Poland","T","Total","2017","34.89"
-"616","Poland","T","Total","2018","33.22"
-"616","Poland","T","Total","2019","31.1"
-"616","Poland","T","Total","2020","30"
-"616","Poland","T","Total","2021","32.08"
-"616","Poland","T","Total","2022","32.49"
-"620","Portugal","T","Total","2013","17.57"
-"620","Portugal","T","Total","2014","17.44"
-"620","Portugal","T","Total","2015","17.3"
-"620","Portugal","T","Total","2016","17.17"
-"620","Portugal","T","Total","2017","12.38"
-"620","Portugal","T","Total","2018","12.32"
-"620","Portugal","T","Total","2019","12.32"
-"620","Portugal","T","Total","2020","12.32"
-"620","Portugal","T","Total","2021","12.32"
-"620","Portugal","T","Total","2022","12.32"
-"124","Canada","T","Total","2011","3.67"
-"124","Canada","T","Total","2012","3.75"
-"124","Canada","T","Total","2013","3.84"
-"124","Canada","T","Total","2014","3.76"
-"124","Canada","T","Total","2015","3.68"
-"124","Canada","T","Total","2016","3.71"
-"124","Canada","T","Total","2017","3.73"
-"124","Canada","T","Total","2018","3.73"
-"124","Canada","T","Total","2019","3.73"
-"124","Canada","T","Total","2020","3.73"
-"124","Canada","T","Total","2021","3.72"
-"124","Canada","T","Total","2022","3.72"
-"417","Kyrgyzstan","T","Total","2011","50.04"
-"417","Kyrgyzstan","T","Total","2012","50.04"
-"417","Kyrgyzstan","T","Total","2013","50.04"
-"417","Kyrgyzstan","T","Total","2014","50.04"
-"417","Kyrgyzstan","T","Total","2015","50.04"
-"417","Kyrgyzstan","T","Total","2016","50.04"
-"417","Kyrgyzstan","T","Total","2017","50.04"
-"417","Kyrgyzstan","T","Total","2018","50.04"
-"417","Kyrgyzstan","T","Total","2019","50.04"
-"417","Kyrgyzstan","T","Total","2020","50.04"
-"417","Kyrgyzstan","T","Total","2021","50.04"
-"752","Sweden","T","Total","2011","3.79"
-"752","Sweden","T","Total","2012","3.7"
-"752","Sweden","T","Total","2013","3.61"
-"752","Sweden","T","Total","2014","3.52"
-"752","Sweden","T","Total","2015","3.43"
-"752","Sweden","T","Total","2016","3.46"
-"752","Sweden","T","Total","2017","3.49"
-"752","Sweden","T","Total","2018","3.52"
-"752","Sweden","T","Total","2019","3.55"
-"752","Sweden","T","Total","2020","3.58"
-"752","Sweden","T","Total","2021","3.58"
-"752","Sweden","T","Total","2022","3.58"
-"756","Switzerland","T","Total","2019","6.5"
-"756","Switzerland","T","Total","2020","6.5"
-"756","Switzerland","T","Total","2021","6.5"
-"756","Switzerland","T","Total","2022","6.5"
-"398","Kazakhstan","T","Total","2011","30.44"
-"398","Kazakhstan","T","Total","2012","29.67"
-"398","Kazakhstan","T","Total","2013","31.25"
-"398","Kazakhstan","T","Total","2014","32.01"
-"398","Kazakhstan","T","Total","2015","30.04"
-"398","Kazakhstan","T","Total","2016","30"
-"398","Kazakhstan","T","Total","2017","31.14"
-"398","Kazakhstan","T","Total","2018","32.65"
-"398","Kazakhstan","T","Total","2019","32.62"
-"398","Kazakhstan","T","Total","2020","34.1"
-"398","Kazakhstan","T","Total","2021","34"
-"398","Kazakhstan","T","Total","2022","34.63"
-"428","Latvia","T","Total","2011","2.18"
-"428","Latvia","T","Total","2012","1.46"
-"428","Latvia","T","Total","2013","1.39"
-"428","Latvia","T","Total","2014","0.99"
-"428","Latvia","T","Total","2015","1.04"
-"428","Latvia","T","Total","2016","1.1"
-"428","Latvia","T","Total","2017","1.07"
-"428","Latvia","T","Total","2018","1.08"
-"440","Lithuania","T","Total","2011","4.52"
-"440","Lithuania","T","Total","2012","3.87"
-"440","Lithuania","T","Total","2013","3.22"
-"440","Lithuania","T","Total","2014","2.58"
-"440","Lithuania","T","Total","2015","2.75"
-"440","Lithuania","T","Total","2016","2.22"
-"440","Lithuania","T","Total","2017","1.87"
-"440","Lithuania","T","Total","2018","1.83"
-"440","Lithuania","T","Total","2019","1.83"
-"440","Lithuania","T","Total","2020","1.83"
-"440","Lithuania","T","Total","2021","1.83"
-"040","Austria","T","Total","2011","9.54"
-"040","Austria","T","Total","2012","9.43"
-"040","Austria","T","Total","2013","9.32"
-"040","Austria","T","Total","2014","9.21"
-"620","Portugal","T","Total","2011","17.84"
-"620","Portugal","T","Total","2012","17.71"
-"040","Austria","T","Total","2015","9.11"
-"040","Austria","T","Total","2016","9"
-"040","Austria","T","Total","2017","8.89"
-"040","Austria","T","Total","2018","8.78"
-"040","Austria","T","Total","2019","8.68"
-"040","Austria","T","Total","2020","8.68"
-"040","Austria","T","Total","2021","8.68"
-"040","Austria","T","Total","2022","8.68"
-"268","Georgia","T","Total","2011","5.65"
-"268","Georgia","T","Total","2012","5.56"
-"268","Georgia","T","Total","2013","5.46"
-"268","Georgia","T","Total","2014","5.36"
-"268","Georgia","T","Total","2015","5.27"
-"268","Georgia","T","Total","2016","5.17"
-"268","Georgia","T","Total","2017","4.48"
-"268","Georgia","T","Total","2018","4.21"
-"268","Georgia","T","Total","2019","5.12"
-"268","Georgia","T","Total","2020","5.39"
-"268","Georgia","T","Total","2021","5.24"
-"268","Georgia","T","Total","2022","4.21"
-"376","Israel","T","Total","2011","112.26"
-"376","Israel","T","Total","2012","108.91"
-"376","Israel","T","Total","2013","105.51"
-"376","Israel","T","Total","2014","102.15"
-"376","Israel","T","Total","2015","98.87"
-"376","Israel","T","Total","2016","103.44"
-"376","Israel","T","Total","2017","103.61"
-"376","Israel","T","Total","2018","95.94"
-"376","Israel","T","Total","2019","100.42"
-"376","Israel","T","Total","2020","110.09"
-"376","Israel","T","Total","2021","132"
-"376","Israel","T","Total","2022","129.67"
-"840","United States","T","Total","2011","26.86"
-"840","United States","T","Total","2012","27.19"
-"840","United States","T","Total","2013","27.51"
-"840","United States","T","Total","2014","27.84"
-"840","United States","T","Total","2015","28.16"
-"840","United States","T","Total","2016","28.16"
-"840","United States","T","Total","2017","28.16"
-"840","United States","T","Total","2018","28.16"
-"840","United States","T","Total","2019","28.16"
-"840","United States","T","Total","2020","28.16"
-"762","Tajikistan","T","Total","2012","70.45"
-"762","Tajikistan","T","Total","2013","69.88"
-"762","Tajikistan","T","Total","2014","69.31"
-"762","Tajikistan","T","Total","2015","68.74"
-"762","Tajikistan","T","Total","2016","57.72"
-"762","Tajikistan","T","Total","2017","52.7"
-"762","Tajikistan","T","Total","2018","64.48"
-"762","Tajikistan","T","Total","2019","69.94"
-"762","Tajikistan","T","Total","2020","69.94"
-"762","Tajikistan","T","Total","2021","69.94"
-"762","Tajikistan","T","Total","2022","69.94"
-"417","Kyrgyzstan","T","Total","2022","50.04"
-"008","Albania","T","Total","2011","6.91"
-"051","Armenia","T","Total","2011","49.18"
-"051","Armenia","T","Total","2012","59.33"
-"051","Armenia","T","Total","2013","59.61"
-"051","Armenia","T","Total","2014","57.7"
-"051","Armenia","T","Total","2015","66.01"
-"051","Armenia","T","Total","2016","64.19"
-"051","Armenia","T","Total","2017","57.8"
-"051","Armenia","T","Total","2018","54.75"
-"051","Armenia","T","Total","2019","57.8"
-"051","Armenia","T","Total","2020","57.09"
-"051","Armenia","T","Total","2021","59.85"
-"051","Armenia","T","Total","2022","61.97"
-"233","Estonia","T","Total","2011","20.28"
-"233","Estonia","T","Total","2012","17.65"
-"233","Estonia","T","Total","2013","18.92"
-"233","Estonia","T","Total","2014","18.61"
-"233","Estonia","T","Total","2015","17.48"
-"233","Estonia","T","Total","2016","18.95"
-"233","Estonia","T","Total","2017","19.32"
-"233","Estonia","T","Total","2018","17.41"
-"233","Estonia","T","Total","2019","10.89"
-"233","Estonia","T","Total","2020","9.23"
-"233","Estonia","T","Total","2021","10.82"
-"233","Estonia","T","Total","2022","13.05"
-"703","Slovakia","T","Total","2017","2.39"
-"703","Slovakia","T","Total","2018","2.39"
-"703","Slovakia","T","Total","2019","2.4"
-"703","Slovakia","T","Total","2020","2.39"
-"703","Slovakia","T","Total","2021","2.44"
-"703","Slovakia","T","Total","2022","2.43"
-"688","Serbia","T","Total","2011","5.35"
-"688","Serbia","T","Total","2012","4.96"
-"688","Serbia","T","Total","2013","5.31"
-"688","Serbia","T","Total","2014","4.43"
-"688","Serbia","T","Total","2015","5.28"
-"688","Serbia","T","Total","2016","5.3"
-"688","Serbia","T","Total","2017","6.06"
-"688","Serbia","T","Total","2018","6.26"
-"688","Serbia","T","Total","2019","6.33"
-"688","Serbia","T","Total","2020","5.75"
-"688","Serbia","T","Total","2021","5.44"
-"688","Serbia","T","Total","2022","5.74"
-"070","Bosnia and Herzegovina","T","Total","2013","2.89"
-"070","Bosnia and Herzegovina","T","Total","2014","2.74"
-"070","Bosnia and Herzegovina","T","Total","2015","2.78"
-"070","Bosnia and Herzegovina","T","Total","2016","2.79"
-"070","Bosnia and Herzegovina","T","Total","2017","2.66"
-"070","Bosnia and Herzegovina","T","Total","2018","2.07"
-"070","Bosnia and Herzegovina","T","Total","2019","2.03"
-"070","Bosnia and Herzegovina","T","Total","2020","2"
-"070","Bosnia and Herzegovina","T","Total","2021","2.03"
-"070","Bosnia and Herzegovina","T","Total","2022","2.07"
-"112","Belarus","T","Total","2011","5.06"
-"112","Belarus","T","Total","2012","5.03"
-"112","Belarus","T","Total","2013","4.99"
-"112","Belarus","T","Total","2014","5.18"
-"112","Belarus","T","Total","2015","4.77"
-"112","Belarus","T","Total","2016","4.79"
-"112","Belarus","T","Total","2017","4.6"
-"112","Belarus","T","Total","2018","4.58"
-"112","Belarus","T","Total","2019","4.48"
-"112","Belarus","T","Total","2020","4.38"
-"112","Belarus","T","Total","2021","4.7"
-"112","Belarus","T","Total","2022","4.66"
-"348","Hungary","T","Total","2011","9.02"
-"348","Hungary","T","Total","2012","8.72"
-"348","Hungary","T","Total","2013","9.07"
-"348","Hungary","T","Total","2014","6.78"
-"348","Hungary","T","Total","2015","6.96"
-"348","Hungary","T","Total","2016","6.84"
-"348","Hungary","T","Total","2017","8.18"
-"348","Hungary","T","Total","2018","8.49"
-"348","Hungary","T","Total","2019","7.71"
-"348","Hungary","T","Total","2020","7.74"
-"348","Hungary","T","Total","2021","7.72"
-"348","Hungary","T","Total","2022","8.11"
-"756","Switzerland","T","Total","2011","7.84"
-"756","Switzerland","T","Total","2012","7.63"
-"756","Switzerland","T","Total","2013","6.56"
-"756","Switzerland","T","Total","2014","6.5"
-"756","Switzerland","T","Total","2015","6.51"
-"756","Switzerland","T","Total","2016","6.5"
-"756","Switzerland","T","Total","2017","6.5"
-"756","Switzerland","T","Total","2018","6.5"
-"762","Tajikistan","T","Total","2011","71.01"
-"203","Czechia","T","Total","2011","28.7"
-"203","Czechia","T","Total","2012","27.99"
-"203","Czechia","T","Total","2013","25.1"
-"203","Czechia","T","Total","2014","25.09"
-"203","Czechia","T","Total","2015","24.33"
-"203","Czechia","T","Total","2016","24.86"
-"203","Czechia","T","Total","2017","24.79"
-"203","Czechia","T","Total","2018","24.18"
-"203","Czechia","T","Total","2019","22.9"
-"203","Czechia","T","Total","2020","20.77"
-"203","Czechia","T","Total","2021","20.51"
-"203","Czechia","T","Total","2022","21.97"
-"056","Belgium","T","Total","2011","62.43"
-"056","Belgium","T","Total","2012","65.11"
-"056","Belgium","T","Total","2013","59.32"
-"056","Belgium","T","Total","2014","55.97"
-"056","Belgium","T","Total","2015","49.07"
-"056","Belgium","T","Total","2016","51.51"
-"056","Belgium","T","Total","2017","53.96"
-"056","Belgium","T","Total","2018","51.29"
-"056","Belgium","T","Total","2019","51.58"
-"056","Belgium","T","Total","2020","51.88"
-"056","Belgium","T","Total","2021","51.88"
-"056","Belgium","T","Total","2022","51.88"
-"795","Turkmenistan","T","Total","2011","144.21"
-"795","Turkmenistan","T","Total","2012","144.34"
-"795","Turkmenistan","T","Total","2013","144.47"
-"795","Turkmenistan","T","Total","2014","144.6"
-"795","Turkmenistan","T","Total","2015","144.73"
-"795","Turkmenistan","T","Total","2016","144.86"
-"795","Turkmenistan","T","Total","2017","148.67"
-"795","Turkmenistan","T","Total","2018","138.49"
-"795","Turkmenistan","T","Total","2019","142.75"
-"795","Turkmenistan","T","Total","2020","135.21"
-"795","Turkmenistan","T","Total","2021","135.21"
-"795","Turkmenistan","T","Total","2022","135.21"
-"804","Ukraine","T","Total","2011","17.96"
-"804","Ukraine","T","Total","2012","16.68"
-"804","Ukraine","T","Total","2013","15.4"
-"804","Ukraine","T","Total","2014","14.12"
-"804","Ukraine","T","Total","2015","11.8"
-"804","Ukraine","T","Total","2016","12.08"
-"804","Ukraine","T","Total","2017","13.87"
-"804","Ukraine","T","Total","2018","13.87"
-"804","Ukraine","T","Total","2019","13.73"
-"804","Ukraine","T","Total","2020","12.26"
-"804","Ukraine","T","Total","2021","10.84"
-"804","Ukraine","T","Total","2022","6.3"
-"807","North Macedonia","T","Total","2011","18.66"
-"807","North Macedonia","T","Total","2012","15.31"
-"807","North Macedonia","T","Total","2013","11.97"
-"807","North Macedonia","T","Total","2014","16.4"
-"807","North Macedonia","T","Total","2015","20.83"
-"807","North Macedonia","T","Total","2016","25.26"
-"807","North Macedonia","T","Total","2017","38.69"
-"807","North Macedonia","T","Total","2018","52.12"
-"807","North Macedonia","T","Total","2019","38.7"
-"807","North Macedonia","T","Total","2020","34.85"
-"807","North Macedonia","T","Total","2021","37.93"
-"807","North Macedonia","T","Total","2022","52.55"
-"070","Bosnia and Herzegovina","T","Total","2011","2.81"
-"070","Bosnia and Herzegovina","T","Total","2012","2.91"
+352,Iceland,T,Total,2011,0.38
+352,Iceland,T,Total,2012,0.4
+352,Iceland,T,Total,2013,0.4
+643,Russian Federation,T,Total,2011,3.93
+643,Russian Federation,T,Total,2012,4.07
+643,Russian Federation,T,Total,2013,3.88
+643,Russian Federation,T,Total,2014,4.5
+643,Russian Federation,T,Total,2015,3.97
+380,Italy,T,Total,2011,29.79
+380,Italy,T,Total,2012,29.88
+380,Italy,T,Total,2013,29.94
+380,Italy,T,Total,2014,29.93
+380,Italy,T,Total,2015,29.92
+380,Italy,T,Total,2016,29.84
+380,Italy,T,Total,2017,29.76
+380,Italy,T,Total,2018,29.68
+380,Italy,T,Total,2019,29.82
+380,Italy,T,Total,2020,29.8
+380,Italy,T,Total,2021,29.78
+380,Italy,T,Total,2022,29.77
+643,Russian Federation,T,Total,2016,4.12
+643,Russian Federation,T,Total,2017,4.1
+643,Russian Federation,T,Total,2018,4.12
+643,Russian Federation,T,Total,2019,4.12
+643,Russian Federation,T,Total,2020,4.12
+643,Russian Federation,T,Total,2021,4.12
+643,Russian Federation,T,Total,2022,4.12
+470,Malta,T,Total,2011,75.45
+8,Albania,T,Total,2012,6.76
+8,Albania,T,Total,2013,6.61
+8,Albania,T,Total,2014,6.46
+8,Albania,T,Total,2015,5.53
+8,Albania,T,Total,2016,6.56
+8,Albania,T,Total,2017,6.56
+8,Albania,T,Total,2018,5.76
+8,Albania,T,Total,2019,6.8
+8,Albania,T,Total,2020,4.72
+8,Albania,T,Total,2021,4.78
+8,Albania,T,Total,2022,4.79
+440,Lithuania,T,Total,2022,1.83
+705,Slovenia,T,Total,2011,5.75
+428,Latvia,T,Total,2019,1.05
+428,Latvia,T,Total,2020,1.07
+428,Latvia,T,Total,2021,1.09
+428,Latvia,T,Total,2022,1.02
+705,Slovenia,T,Total,2012,6.27
+705,Slovenia,T,Total,2013,7.81
+705,Slovenia,T,Total,2014,6.63
+705,Slovenia,T,Total,2015,6.06
+705,Slovenia,T,Total,2016,6
+705,Slovenia,T,Total,2017,6.3
+705,Slovenia,T,Total,2018,6.5
+705,Slovenia,T,Total,2019,6.38
+705,Slovenia,T,Total,2020,6.78
+705,Slovenia,T,Total,2021,6.29
+705,Slovenia,T,Total,2022,5.59
+372,Ireland,T,Total,2011,4.36
+372,Ireland,T,Total,2012,4.72
+372,Ireland,T,Total,2013,5.08
+372,Ireland,T,Total,2014,5.43
+372,Ireland,T,Total,2015,5.79
+372,Ireland,T,Total,2016,6.15
+372,Ireland,T,Total,2017,6.51
+372,Ireland,T,Total,2018,6.87
+372,Ireland,T,Total,2019,7.4
+372,Ireland,T,Total,2020,7.43
+372,Ireland,T,Total,2021,7.61
+372,Ireland,T,Total,2022,8.05
+642,Romania,T,Total,2011,6.17
+642,Romania,T,Total,2012,6.07
+642,Romania,T,Total,2013,6.01
+642,Romania,T,Total,2014,5.88
+642,Romania,T,Total,2015,6.05
+642,Romania,T,Total,2016,5.97
+642,Romania,T,Total,2017,6.34
+642,Romania,T,Total,2018,6.01
+642,Romania,T,Total,2019,6.55
+642,Romania,T,Total,2020,6.92
+642,Romania,T,Total,2021,7.36
+642,Romania,T,Total,2022,7.63
+442,Luxembourg,T,Total,2011,3.84
+442,Luxembourg,T,Total,2012,3.7
+442,Luxembourg,T,Total,2013,3.57
+442,Luxembourg,T,Total,2014,3.81
+442,Luxembourg,T,Total,2015,3.71
+442,Luxembourg,T,Total,2016,3.68
+442,Luxembourg,T,Total,2017,3.78
+442,Luxembourg,T,Total,2018,4.33
+442,Luxembourg,T,Total,2019,4.09
+442,Luxembourg,T,Total,2020,3.96
+442,Luxembourg,T,Total,2021,3.96
+442,Luxembourg,T,Total,2022,3.96
+470,Malta,T,Total,2020,81.78
+470,Malta,T,Total,2021,78.47
+470,Malta,T,Total,2022,72.6
+840,United States,T,Total,2021,28.16
+840,United States,T,Total,2022,28.16
+208,Denmark,T,Total,2011,23.41
+208,Denmark,T,Total,2012,19.7
+208,Denmark,T,Total,2013,27.29
+826,United Kingdom,T,Total,2011,13.1
+826,United Kingdom,T,Total,2012,13.67
+826,United Kingdom,T,Total,2013,13.05
+826,United Kingdom,T,Total,2014,12.42
+826,United Kingdom,T,Total,2015,13.91
+826,United Kingdom,T,Total,2016,14.35
+826,United Kingdom,T,Total,2017,14.35
+826,United Kingdom,T,Total,2018,14.35
+826,United Kingdom,T,Total,2019,14.35
+826,United Kingdom,T,Total,2020,14.35
+826,United Kingdom,T,Total,2021,14.35
+826,United Kingdom,T,Total,2022,14.35
+352,Iceland,T,Total,2014,0.37
+352,Iceland,T,Total,2015,0.38
+352,Iceland,T,Total,2016,0.35
+352,Iceland,T,Total,2017,0.39
+352,Iceland,T,Total,2018,0.39
+352,Iceland,T,Total,2019,0.39
+352,Iceland,T,Total,2020,0.39
+352,Iceland,T,Total,2021,0.39
+352,Iceland,T,Total,2022,0.39
+578,Norway,T,Total,2011,2.11
+578,Norway,T,Total,2012,2.08
+578,Norway,T,Total,2013,2.09
+578,Norway,T,Total,2014,2.11
+578,Norway,T,Total,2015,2.06
+578,Norway,T,Total,2016,2.01
+578,Norway,T,Total,2017,2.05
+578,Norway,T,Total,2018,2.04
+578,Norway,T,Total,2019,2.04
+578,Norway,T,Total,2020,2.04
+578,Norway,T,Total,2021,2.01
+578,Norway,T,Total,2022,2.01
+196,Cyprus,T,Total,2011,30.18
+196,Cyprus,T,Total,2012,34.9
+196,Cyprus,T,Total,2013,28.27
+196,Cyprus,T,Total,2014,29.66
+196,Cyprus,T,Total,2015,31.71
+196,Cyprus,T,Total,2016,29.8
+196,Cyprus,T,Total,2017,29.52
+196,Cyprus,T,Total,2018,28.29
+196,Cyprus,T,Total,2019,27.61
+196,Cyprus,T,Total,2020,31.57
+196,Cyprus,T,Total,2021,32.12
+196,Cyprus,T,Total,2022,30.48
+724,Spain,T,Total,2011,47.81
+724,Spain,T,Total,2012,50.1
+724,Spain,T,Total,2013,44.1
+724,Spain,T,Total,2014,44.8
+724,Spain,T,Total,2015,42.96
+724,Spain,T,Total,2016,42.56
+724,Spain,T,Total,2017,41.03
+724,Spain,T,Total,2018,40.09
+724,Spain,T,Total,2019,39.83
+724,Spain,T,Total,2020,43.25
+724,Spain,T,Total,2021,43.25
+724,Spain,T,Total,2022,43.25
+703,Slovakia,T,Total,2011,2.55
+703,Slovakia,T,Total,2012,2.86
+703,Slovakia,T,Total,2013,2.74
+703,Slovakia,T,Total,2014,2.41
+703,Slovakia,T,Total,2015,2.47
+703,Slovakia,T,Total,2016,2.39
+528,Netherlands,T,Total,2011,19.35
+528,Netherlands,T,Total,2012,20.35
+528,Netherlands,T,Total,2013,20.2
+528,Netherlands,T,Total,2014,18.02
+528,Netherlands,T,Total,2015,15.97
+528,Netherlands,T,Total,2016,15.23
+528,Netherlands,T,Total,2017,15.03
+528,Netherlands,T,Total,2018,16.37
+528,Netherlands,T,Total,2019,17
+528,Netherlands,T,Total,2020,16.8
+528,Netherlands,T,Total,2021,16.08
+528,Netherlands,T,Total,2022,16.66
+470,Malta,T,Total,2012,79.41
+470,Malta,T,Total,2013,91.29
+470,Malta,T,Total,2014,89.11
+470,Malta,T,Total,2015,82.77
+470,Malta,T,Total,2016,82.97
+470,Malta,T,Total,2017,91.09
+470,Malta,T,Total,2018,84.62
+470,Malta,T,Total,2019,80.66
+860,Uzbekistan,T,Total,2011,143.47
+860,Uzbekistan,T,Total,2012,143.88
+860,Uzbekistan,T,Total,2013,144.29
+860,Uzbekistan,T,Total,2014,144.71
+860,Uzbekistan,T,Total,2015,158.13
+860,Uzbekistan,T,Total,2016,156.44
+860,Uzbekistan,T,Total,2017,168.91
+860,Uzbekistan,T,Total,2018,160.38
+860,Uzbekistan,T,Total,2019,151.84
+860,Uzbekistan,T,Total,2020,143.26
+860,Uzbekistan,T,Total,2021,121.84
+860,Uzbekistan,T,Total,2022,121.84
+498,Republic of Moldova,T,Total,2011,12.58
+498,Republic of Moldova,T,Total,2012,12.62
+498,Republic of Moldova,T,Total,2013,12.46
+498,Republic of Moldova,T,Total,2014,12.43
+498,Republic of Moldova,T,Total,2015,12.47
+498,Republic of Moldova,T,Total,2016,12.52
+498,Republic of Moldova,T,Total,2017,12.47
+498,Republic of Moldova,T,Total,2018,12.43
+498,Republic of Moldova,T,Total,2019,12.46
+498,Republic of Moldova,T,Total,2020,12.56
+498,Republic of Moldova,T,Total,2021,12.56
+498,Republic of Moldova,T,Total,2022,12.56
+792,Tï¿½rkiye,T,Total,2011,36.2
+792,Tï¿½rkiye,T,Total,2012,37.52
+792,Tï¿½rkiye,T,Total,2013,38.06
+792,Tï¿½rkiye,T,Total,2014,38.6
+792,Tï¿½rkiye,T,Total,2015,39.89
+792,Tï¿½rkiye,T,Total,2016,44.28
+792,Tï¿½rkiye,T,Total,2017,43.67
+792,Tï¿½rkiye,T,Total,2018,45.38
+792,Tï¿½rkiye,T,Total,2019,46.28
+792,Tï¿½rkiye,T,Total,2020,47.16
+792,Tï¿½rkiye,T,Total,2021,43.38
+792,Tï¿½rkiye,T,Total,2022,44.1
+100,Bulgaria,T,Total,2011,47.19
+100,Bulgaria,T,Total,2012,42.24
+100,Bulgaria,T,Total,2013,40.42
+100,Bulgaria,T,Total,2014,39.74
+100,Bulgaria,T,Total,2015,41.61
+100,Bulgaria,T,Total,2016,42.05
+100,Bulgaria,T,Total,2017,41.82
+100,Bulgaria,T,Total,2018,40.1
+100,Bulgaria,T,Total,2019,40.08
+100,Bulgaria,T,Total,2020,36.73
+100,Bulgaria,T,Total,2021,38.52
+100,Bulgaria,T,Total,2022,40.24
+191,Croatia,T,Total,2011,1.48
+191,Croatia,T,Total,2012,1.45
+191,Croatia,T,Total,2013,1.4
+191,Croatia,T,Total,2014,1.29
+191,Croatia,T,Total,2015,1.38
+191,Croatia,T,Total,2016,1.42
+191,Croatia,T,Total,2017,1.5
+191,Croatia,T,Total,2018,1.49
+191,Croatia,T,Total,2019,1.49
+191,Croatia,T,Total,2020,1.46
+191,Croatia,T,Total,2021,1.48
+191,Croatia,T,Total,2022,1.51
+31,Azerbaijan,T,Total,2011,49.88
+31,Azerbaijan,T,Total,2012,52.88
+31,Azerbaijan,T,Total,2013,52.97
+31,Azerbaijan,T,Total,2014,51.19
+31,Azerbaijan,T,Total,2015,51.62
+31,Azerbaijan,T,Total,2016,52.45
+31,Azerbaijan,T,Total,2017,53.52
+31,Azerbaijan,T,Total,2018,53.73
+31,Azerbaijan,T,Total,2019,55.6
+31,Azerbaijan,T,Total,2020,53.89
+31,Azerbaijan,T,Total,2021,57.27
+31,Azerbaijan,T,Total,2022,57.53
+208,Denmark,T,Total,2014,26.75
+208,Denmark,T,Total,2015,21.95
+208,Denmark,T,Total,2016,23.99
+208,Denmark,T,Total,2017,24.22
+208,Denmark,T,Total,2018,29.9
+208,Denmark,T,Total,2019,25.57
+208,Denmark,T,Total,2020,25.62
+208,Denmark,T,Total,2021,25.94
+208,Denmark,T,Total,2022,25.27
+246,Finland,T,Total,2011,10.51
+246,Finland,T,Total,2012,9.5
+246,Finland,T,Total,2013,8.49
+246,Finland,T,Total,2014,7.48
+246,Finland,T,Total,2015,6.46
+246,Finland,T,Total,2016,5.45
+246,Finland,T,Total,2017,5.45
+246,Finland,T,Total,2018,6.64
+246,Finland,T,Total,2019,7.11
+246,Finland,T,Total,2020,7.11
+246,Finland,T,Total,2021,7.11
+246,Finland,T,Total,2022,7.11
+276,Germany,T,Total,2011,49.92
+276,Germany,T,Total,2012,46.12
+276,Germany,T,Total,2013,34.71
+276,Germany,T,Total,2014,42.91
+276,Germany,T,Total,2015,40.89
+276,Germany,T,Total,2016,33.5
+276,Germany,T,Total,2017,38.03
+276,Germany,T,Total,2018,36.9
+276,Germany,T,Total,2019,35.35
+276,Germany,T,Total,2020,35.35
+276,Germany,T,Total,2021,35.35
+276,Germany,T,Total,2022,35.35
+250,France,T,Total,2011,26.39
+250,France,T,Total,2012,24.57
+250,France,T,Total,2013,23.77
+250,France,T,Total,2014,23.9
+250,France,T,Total,2015,24.61
+250,France,T,Total,2016,23.14
+250,France,T,Total,2017,23.59
+250,France,T,Total,2018,23.57
+250,France,T,Total,2019,22.95
+250,France,T,Total,2020,21.6
+250,France,T,Total,2021,21.38
+250,France,T,Total,2022,21.38
+300,Greece,T,Total,2011,20.1
+300,Greece,T,Total,2012,20.1
+300,Greece,T,Total,2013,20.08
+300,Greece,T,Total,2014,20.06
+300,Greece,T,Total,2015,20.04
+300,Greece,T,Total,2016,20.51
+300,Greece,T,Total,2017,20.5
+300,Greece,T,Total,2018,20.48
+300,Greece,T,Total,2019,20.46
+300,Greece,T,Total,2020,20.48
+300,Greece,T,Total,2021,20.41
+300,Greece,T,Total,2022,20.33
+616,Poland,T,Total,2011,41.23
+616,Poland,T,Total,2012,39.7
+616,Poland,T,Total,2013,38.91
+616,Poland,T,Total,2014,36.8
+616,Poland,T,Total,2015,36.16
+616,Poland,T,Total,2016,35.61
+616,Poland,T,Total,2017,34.89
+616,Poland,T,Total,2018,33.22
+616,Poland,T,Total,2019,31.1
+616,Poland,T,Total,2020,30
+616,Poland,T,Total,2021,32.08
+616,Poland,T,Total,2022,32.49
+620,Portugal,T,Total,2013,17.57
+620,Portugal,T,Total,2014,17.44
+620,Portugal,T,Total,2015,17.3
+620,Portugal,T,Total,2016,17.17
+620,Portugal,T,Total,2017,12.38
+620,Portugal,T,Total,2018,12.32
+620,Portugal,T,Total,2019,12.32
+620,Portugal,T,Total,2020,12.32
+620,Portugal,T,Total,2021,12.32
+620,Portugal,T,Total,2022,12.32
+124,Canada,T,Total,2011,3.67
+124,Canada,T,Total,2012,3.75
+124,Canada,T,Total,2013,3.84
+124,Canada,T,Total,2014,3.76
+124,Canada,T,Total,2015,3.68
+124,Canada,T,Total,2016,3.71
+124,Canada,T,Total,2017,3.73
+124,Canada,T,Total,2018,3.73
+124,Canada,T,Total,2019,3.73
+124,Canada,T,Total,2020,3.73
+124,Canada,T,Total,2021,3.72
+124,Canada,T,Total,2022,3.72
+417,Kyrgyzstan,T,Total,2011,50.04
+417,Kyrgyzstan,T,Total,2012,50.04
+417,Kyrgyzstan,T,Total,2013,50.04
+417,Kyrgyzstan,T,Total,2014,50.04
+417,Kyrgyzstan,T,Total,2015,50.04
+417,Kyrgyzstan,T,Total,2016,50.04
+417,Kyrgyzstan,T,Total,2017,50.04
+417,Kyrgyzstan,T,Total,2018,50.04
+417,Kyrgyzstan,T,Total,2019,50.04
+417,Kyrgyzstan,T,Total,2020,50.04
+417,Kyrgyzstan,T,Total,2021,50.04
+752,Sweden,T,Total,2011,3.79
+752,Sweden,T,Total,2012,3.7
+752,Sweden,T,Total,2013,3.61
+752,Sweden,T,Total,2014,3.52
+752,Sweden,T,Total,2015,3.43
+752,Sweden,T,Total,2016,3.46
+752,Sweden,T,Total,2017,3.49
+752,Sweden,T,Total,2018,3.52
+752,Sweden,T,Total,2019,3.55
+752,Sweden,T,Total,2020,3.58
+752,Sweden,T,Total,2021,3.58
+752,Sweden,T,Total,2022,3.58
+756,Switzerland,T,Total,2019,6.5
+756,Switzerland,T,Total,2020,6.5
+756,Switzerland,T,Total,2021,6.5
+756,Switzerland,T,Total,2022,6.5
+398,Kazakhstan,T,Total,2011,30.44
+398,Kazakhstan,T,Total,2012,29.67
+398,Kazakhstan,T,Total,2013,31.25
+398,Kazakhstan,T,Total,2014,32.01
+398,Kazakhstan,T,Total,2015,30.04
+398,Kazakhstan,T,Total,2016,30
+398,Kazakhstan,T,Total,2017,31.14
+398,Kazakhstan,T,Total,2018,32.65
+398,Kazakhstan,T,Total,2019,32.62
+398,Kazakhstan,T,Total,2020,34.1
+398,Kazakhstan,T,Total,2021,34
+398,Kazakhstan,T,Total,2022,34.63
+428,Latvia,T,Total,2011,2.18
+428,Latvia,T,Total,2012,1.46
+428,Latvia,T,Total,2013,1.39
+428,Latvia,T,Total,2014,0.99
+428,Latvia,T,Total,2015,1.04
+428,Latvia,T,Total,2016,1.1
+428,Latvia,T,Total,2017,1.07
+428,Latvia,T,Total,2018,1.08
+440,Lithuania,T,Total,2011,4.52
+440,Lithuania,T,Total,2012,3.87
+440,Lithuania,T,Total,2013,3.22
+440,Lithuania,T,Total,2014,2.58
+440,Lithuania,T,Total,2015,2.75
+440,Lithuania,T,Total,2016,2.22
+440,Lithuania,T,Total,2017,1.87
+440,Lithuania,T,Total,2018,1.83
+440,Lithuania,T,Total,2019,1.83
+440,Lithuania,T,Total,2020,1.83
+440,Lithuania,T,Total,2021,1.83
+40,Austria,T,Total,2011,9.54
+40,Austria,T,Total,2012,9.43
+40,Austria,T,Total,2013,9.32
+40,Austria,T,Total,2014,9.21
+620,Portugal,T,Total,2011,17.84
+620,Portugal,T,Total,2012,17.71
+40,Austria,T,Total,2015,9.11
+40,Austria,T,Total,2016,9
+40,Austria,T,Total,2017,8.89
+40,Austria,T,Total,2018,8.78
+40,Austria,T,Total,2019,8.68
+40,Austria,T,Total,2020,8.68
+40,Austria,T,Total,2021,8.68
+40,Austria,T,Total,2022,8.68
+268,Georgia,T,Total,2011,5.65
+268,Georgia,T,Total,2012,5.56
+268,Georgia,T,Total,2013,5.46
+268,Georgia,T,Total,2014,5.36
+268,Georgia,T,Total,2015,5.27
+268,Georgia,T,Total,2016,5.17
+268,Georgia,T,Total,2017,4.48
+268,Georgia,T,Total,2018,4.21
+268,Georgia,T,Total,2019,5.12
+268,Georgia,T,Total,2020,5.39
+268,Georgia,T,Total,2021,5.24
+268,Georgia,T,Total,2022,4.21
+376,Israel,T,Total,2011,112.26
+376,Israel,T,Total,2012,108.91
+376,Israel,T,Total,2013,105.51
+376,Israel,T,Total,2014,102.15
+376,Israel,T,Total,2015,98.87
+376,Israel,T,Total,2016,103.44
+376,Israel,T,Total,2017,103.61
+376,Israel,T,Total,2018,95.94
+376,Israel,T,Total,2019,100.42
+376,Israel,T,Total,2020,110.09
+376,Israel,T,Total,2021,132
+376,Israel,T,Total,2022,129.67
+840,United States,T,Total,2011,26.86
+840,United States,T,Total,2012,27.19
+840,United States,T,Total,2013,27.51
+840,United States,T,Total,2014,27.84
+840,United States,T,Total,2015,28.16
+840,United States,T,Total,2016,28.16
+840,United States,T,Total,2017,28.16
+840,United States,T,Total,2018,28.16
+840,United States,T,Total,2019,28.16
+840,United States,T,Total,2020,28.16
+762,Tajikistan,T,Total,2012,70.45
+762,Tajikistan,T,Total,2013,69.88
+762,Tajikistan,T,Total,2014,69.31
+762,Tajikistan,T,Total,2015,68.74
+762,Tajikistan,T,Total,2016,57.72
+762,Tajikistan,T,Total,2017,52.7
+762,Tajikistan,T,Total,2018,64.48
+762,Tajikistan,T,Total,2019,69.94
+762,Tajikistan,T,Total,2020,69.94
+762,Tajikistan,T,Total,2021,69.94
+762,Tajikistan,T,Total,2022,69.94
+417,Kyrgyzstan,T,Total,2022,50.04
+8,Albania,T,Total,2011,6.91
+51,Armenia,T,Total,2011,49.18
+51,Armenia,T,Total,2012,59.33
+51,Armenia,T,Total,2013,59.61
+51,Armenia,T,Total,2014,57.7
+51,Armenia,T,Total,2015,66.01
+51,Armenia,T,Total,2016,64.19
+51,Armenia,T,Total,2017,57.8
+51,Armenia,T,Total,2018,54.75
+51,Armenia,T,Total,2019,57.8
+51,Armenia,T,Total,2020,57.09
+51,Armenia,T,Total,2021,59.85
+51,Armenia,T,Total,2022,61.97
+233,Estonia,T,Total,2011,20.28
+233,Estonia,T,Total,2012,17.65
+233,Estonia,T,Total,2013,18.92
+233,Estonia,T,Total,2014,18.61
+233,Estonia,T,Total,2015,17.48
+233,Estonia,T,Total,2016,18.95
+233,Estonia,T,Total,2017,19.32
+233,Estonia,T,Total,2018,17.41
+233,Estonia,T,Total,2019,10.89
+233,Estonia,T,Total,2020,9.23
+233,Estonia,T,Total,2021,10.82
+233,Estonia,T,Total,2022,13.05
+703,Slovakia,T,Total,2017,2.39
+703,Slovakia,T,Total,2018,2.39
+703,Slovakia,T,Total,2019,2.4
+703,Slovakia,T,Total,2020,2.39
+703,Slovakia,T,Total,2021,2.44
+703,Slovakia,T,Total,2022,2.43
+688,Serbia,T,Total,2011,5.35
+688,Serbia,T,Total,2012,4.96
+688,Serbia,T,Total,2013,5.31
+688,Serbia,T,Total,2014,4.43
+688,Serbia,T,Total,2015,5.28
+688,Serbia,T,Total,2016,5.3
+688,Serbia,T,Total,2017,6.06
+688,Serbia,T,Total,2018,6.26
+688,Serbia,T,Total,2019,6.33
+688,Serbia,T,Total,2020,5.75
+688,Serbia,T,Total,2021,5.44
+688,Serbia,T,Total,2022,5.74
+70,Bosnia and Herzegovina,T,Total,2013,2.89
+70,Bosnia and Herzegovina,T,Total,2014,2.74
+70,Bosnia and Herzegovina,T,Total,2015,2.78
+70,Bosnia and Herzegovina,T,Total,2016,2.79
+70,Bosnia and Herzegovina,T,Total,2017,2.66
+70,Bosnia and Herzegovina,T,Total,2018,2.07
+70,Bosnia and Herzegovina,T,Total,2019,2.03
+70,Bosnia and Herzegovina,T,Total,2020,2
+70,Bosnia and Herzegovina,T,Total,2021,2.03
+70,Bosnia and Herzegovina,T,Total,2022,2.07
+112,Belarus,T,Total,2011,5.06
+112,Belarus,T,Total,2012,5.03
+112,Belarus,T,Total,2013,4.99
+112,Belarus,T,Total,2014,5.18
+112,Belarus,T,Total,2015,4.77
+112,Belarus,T,Total,2016,4.79
+112,Belarus,T,Total,2017,4.6
+112,Belarus,T,Total,2018,4.58
+112,Belarus,T,Total,2019,4.48
+112,Belarus,T,Total,2020,4.38
+112,Belarus,T,Total,2021,4.7
+112,Belarus,T,Total,2022,4.66
+348,Hungary,T,Total,2011,9.02
+348,Hungary,T,Total,2012,8.72
+348,Hungary,T,Total,2013,9.07
+348,Hungary,T,Total,2014,6.78
+348,Hungary,T,Total,2015,6.96
+348,Hungary,T,Total,2016,6.84
+348,Hungary,T,Total,2017,8.18
+348,Hungary,T,Total,2018,8.49
+348,Hungary,T,Total,2019,7.71
+348,Hungary,T,Total,2020,7.74
+348,Hungary,T,Total,2021,7.72
+348,Hungary,T,Total,2022,8.11
+756,Switzerland,T,Total,2011,7.84
+756,Switzerland,T,Total,2012,7.63
+756,Switzerland,T,Total,2013,6.56
+756,Switzerland,T,Total,2014,6.5
+756,Switzerland,T,Total,2015,6.51
+756,Switzerland,T,Total,2016,6.5
+756,Switzerland,T,Total,2017,6.5
+756,Switzerland,T,Total,2018,6.5
+762,Tajikistan,T,Total,2011,71.01
+203,Czechia,T,Total,2011,28.7
+203,Czechia,T,Total,2012,27.99
+203,Czechia,T,Total,2013,25.1
+203,Czechia,T,Total,2014,25.09
+203,Czechia,T,Total,2015,24.33
+203,Czechia,T,Total,2016,24.86
+203,Czechia,T,Total,2017,24.79
+203,Czechia,T,Total,2018,24.18
+203,Czechia,T,Total,2019,22.9
+203,Czechia,T,Total,2020,20.77
+203,Czechia,T,Total,2021,20.51
+203,Czechia,T,Total,2022,21.97
+56,Belgium,T,Total,2011,62.43
+56,Belgium,T,Total,2012,65.11
+56,Belgium,T,Total,2013,59.32
+56,Belgium,T,Total,2014,55.97
+56,Belgium,T,Total,2015,49.07
+56,Belgium,T,Total,2016,51.51
+56,Belgium,T,Total,2017,53.96
+56,Belgium,T,Total,2018,51.29
+56,Belgium,T,Total,2019,51.58
+56,Belgium,T,Total,2020,51.88
+56,Belgium,T,Total,2021,51.88
+56,Belgium,T,Total,2022,51.88
+795,Turkmenistan,T,Total,2011,144.21
+795,Turkmenistan,T,Total,2012,144.34
+795,Turkmenistan,T,Total,2013,144.47
+795,Turkmenistan,T,Total,2014,144.6
+795,Turkmenistan,T,Total,2015,144.73
+795,Turkmenistan,T,Total,2016,144.86
+795,Turkmenistan,T,Total,2017,148.67
+795,Turkmenistan,T,Total,2018,138.49
+795,Turkmenistan,T,Total,2019,142.75
+795,Turkmenistan,T,Total,2020,135.21
+795,Turkmenistan,T,Total,2021,135.21
+795,Turkmenistan,T,Total,2022,135.21
+804,Ukraine,T,Total,2011,17.96
+804,Ukraine,T,Total,2012,16.68
+804,Ukraine,T,Total,2013,15.4
+804,Ukraine,T,Total,2014,14.12
+804,Ukraine,T,Total,2015,11.8
+804,Ukraine,T,Total,2016,12.08
+804,Ukraine,T,Total,2017,13.87
+804,Ukraine,T,Total,2018,13.87
+804,Ukraine,T,Total,2019,13.73
+804,Ukraine,T,Total,2020,12.26
+804,Ukraine,T,Total,2021,10.84
+804,Ukraine,T,Total,2022,6.3
+807,North Macedonia,T,Total,2011,18.66
+807,North Macedonia,T,Total,2012,15.31
+807,North Macedonia,T,Total,2013,11.97
+807,North Macedonia,T,Total,2014,16.4
+807,North Macedonia,T,Total,2015,20.83
+807,North Macedonia,T,Total,2016,25.26
+807,North Macedonia,T,Total,2017,38.69
+807,North Macedonia,T,Total,2018,52.12
+807,North Macedonia,T,Total,2019,38.7
+807,North Macedonia,T,Total,2020,34.85
+807,North Macedonia,T,Total,2021,37.93
+807,North Macedonia,T,Total,2022,52.55
+70,Bosnia and Herzegovina,T,Total,2011,2.81
+70,Bosnia and Herzegovina,T,Total,2012,2.91
