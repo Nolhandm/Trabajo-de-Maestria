@@ -191,3 +191,29 @@ Curaçao
 Guernsey
 Occupied Palestinian Territory
 Taiwan, China
+Saint Martin (French Part)
+Latin America and the Caribbean
+Åland Islands
+French Southern Territories
+Svalbard and Jan Mayen Islands
+Bouvet Island
+Saint Barthélemy
+Christmas Island
+Heard Island and McDonald Islands
+Pitcairn
+South Georgia and the South Sandwich Islands
+Taiwan, Province of China
+United States Minor Outlying Islands
+Cocos (Keeling) Islands
+Oceania (excluding Australia and New Zealand)
+Western Asia and Northern Africa
+Chagos Archipelago
+China, Macao SAR
+Europe, Northern America, Australia and New Zealand
+Antarctica
+Eastern Asia and South-eastern Asia
+Holy See
+Sark
+Central Asia and Southern Asia
+Northern America and Europe
+Bonaire, Sint Eustatius and Saba
