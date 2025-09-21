@@ -226,3 +226,5 @@ Middle East & North Africa (IDA & IBRD countries)
 East Asia & Pacific (IDA & IBRD countries)
 Middle East & North Africa (excluding high income)
 Virgin Islands (U.S.)
+Yugoslavia
+Ethiopia (former)
