@@ -9,6 +9,7 @@
     "Korea (the Republic of)": "Korea, Rep.",
     "North Korea" : "Korea, Dem. People's Rep.",
     "Democratic People's Republic of Korea" : "Korea, Dem. People's Rep.",
+    "Korea, Dem. People’s Rep." : "Korea, Dem. People's Rep.",
     "Micronesia" : "Micronesia, Fed. Sts.",
     "Micronesia (Federated States of)":"Micronesia, Fed. Sts.",
     "Gambia" : "Gambia, The",
@@ -71,4 +72,7 @@
     "Syrian Arab Republic (the)" : "Syrian Arab Republic",
     "United Kingdom of Great Britain and Northern Ireland (the)" : "United Kingdom",
     "Comoros (the)" : "Comoros",
+    "Macedonia, FYR" : "North Macedonia",
+    "Czech Republic" : "Czechia",
+    "Swaziland" : "Eswatini",
     "Dem. Rep. Congo":"Congo, Dem. Rep."}

@@ -218,3 +218,11 @@ Central Asia and Southern Asia
 Northern America and Europe
 Bonaire, Sint Eustatius and Saba
 United Republic of Tanzania, Zanzibar
+Sub-Saharan Africa (IDA & IBRD countries)
+Middle East & North Africa
+Europe & Central Asia (IDA & IBRD countries)
+Latin America & the Caribbean (IDA & IBRD countries)
+Middle East & North Africa (IDA & IBRD countries)
+East Asia & Pacific (IDA & IBRD countries)
+Middle East & North Africa (excluding high income)
+Virgin Islands (U.S.)
