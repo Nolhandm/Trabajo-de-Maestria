@@ -230,3 +230,19 @@ Yugoslavia
 Ethiopia (former)
 occupied Palestinian territory, including east Jerusalem
 Middle East, North Africa, Afghanistan and Pakistan (WB)
+Caucasus and Central Asia
+Eastern Asia (excluding Japan)
+Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)
+Northern Africa and Western Asia
+Small island developing States (SIDS)
+Europe and Northern America
+Eastern and South-Eastern Asia
+Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)
+Sub-Saharan Africa (inc. Sudan)
+Developing regions
+Central and Southern Asia
+South-Eastern Asia
+Serbia and Montenegro [former]
+Northern Africa (exc. Sudan)
+Landlocked developing countries (LLDCs)
+Oceania (exc. Australia and New Zealand)
