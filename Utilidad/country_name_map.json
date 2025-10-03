@@ -1,6 +1,7 @@
 {
     "Côte d'Ivoire": "Cote d'Ivoire",
     "CÃ´te d'Ivoire" : "Cote d'Ivoire",
+    "CÃ\\x83Â´te d'Ivoire": "Cote d'Ivoire",
     "Kyrgyzstan": "Kyrgyz Republic",
     "Bolivia (Plurinational State of)" : "Bolivia",
     "Republic of Korea" : "Korea, Rep.",
@@ -26,6 +27,7 @@
     "T?rkiye" : "Turkiye",
     "Tï¿½rkiye" :"Turkiye",
     "T\uFFFDrkiye": "Turkiye",
+    "TÃ\\x83Â¼rkiye" : "Turkiye",
     "Least Developed Countries" : "Least developed countries: UN classification",
     "Slovakia" : "Slovak Republic",
     "Democratic Republic of the Congo":"Congo, Dem. Rep.",
