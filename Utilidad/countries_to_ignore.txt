@@ -138,6 +138,7 @@ Latin America and Caribbean (WB)
 Latin America and the Caribbean
 Latin America and the Caribbean (SDG)
 Latin America and the Caribbean (UN)
+Least Developed Countries
 Least Developed Countries (LDCs)
 Low Income Food Deficit Countries (LIFDCs)
 Low-income countries
@@ -226,6 +227,7 @@ Serbia and Montenegro
 Serbia and Montenegro [former]
 Sint Maarten (Dutch part)
 Small Island De
+Small Island Developing States
 Small Island Developing States (SIDS)
 Small island developing States (SIDS)
 South America
