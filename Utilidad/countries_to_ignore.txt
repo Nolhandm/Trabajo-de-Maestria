@@ -1,286 +1,283 @@
-Central Asia (UN)
-South-Eastern Asia (UN)
-Central and Southern Asia (UN)
-Western Asia (UN)
-Europe (WHO)
-Australia and New Zealand (UN)
-Northern Africa and Western Asia (UN)
-Oceania (exc. Australia and New Zealand) (UN)
-Western Pacific (WHO)
-Eastern Mediterranean (WHO)
-Cook Islands
-Northern Africa (UN)
-Northern America and Europe (UN)
-Niue
-Latin America and the Caribbean (UN)
-Eastern Asia (UN)
-Americas (WHO)
-Africa (WHO)
-Eastern Asia and South-Eastern Asia (UN)
-Southern Asia (UN)
-South-East Asia (WHO)
-Sub-Saharan Africa (UN)
-South Asia (WB)
-East Asia and Pacific (WB)
-Curacao
-New Caledonia
-Macao
-Sint Maarten (Dutch part)
-Gibraltar
-British Virgin Islands
-Low-income countries
-Hong Kong
-Kosovo
-Guam
-Lower-middle-income countries
-Puerto Rico
-Sub-Saharan Africa (WB)
-Northern Mariana Islands
-Faeroe Islands
-North America (WB)
-Isle of Man
-Palestine
-Cayman Islands
-Greenland
-French Polynesia
-Bermuda
-Channel Islands
-Middle East and North Africa (WB)
-Turks and Caicos Islands
-United States Virgin Islands
-Aruba
-Upper-middle-income countries
-High-income countries
-Europe and Central Asia (WB)
-Saint Martin (French part)
-Latin America and Caribbean (WB)
-Faroe Islands
-China, Hong Kong SAR
-Western Europe
-Low Income Food Deficit Countries (LIFDCs)
-Central Asia
-USSR
-China, mainland
-Western Asia
-Small Island Developing States (SIDS)
-China, Taiwan Province of
-Pacific Islands Trust Territory
-Northern Europe
-Oceania
-Eastern Asia
-Norfolk Island
-Melanesia
-Guadeloupe
-Northern Africa
-Wallis and Futuna Islands
-Yugoslav SFR
-Land Locked Developing Countries (LLDCs)
-Saint Pierre and Miquelon
-South-eastern Asia
-Polynesia
-Least Developed Countries (LDCs)
-American Samoa
-Ascension, Saint Helena and Tristan da Cunha
-Australia and New Zealand
-Europe
-Asia
-Czechoslovakia
-Falkland Islands (Malvinas)
-Southern Europe
-Mayotte
-Western Africa
-Americas
-Martinique
-South America
-Belgium-Luxembourg
-Western Sahara
-Northern America
 Africa
-French Guiana
-Serbia and Montenegro
-Middle Africa
-Caribbean
-Eastern Europe
-RÃ©union
-Eastern Africa
-Montserrat
-Southern Asia
-Central America
-Southern Africa
-Netherlands Antilles (former)
-Tokelau
-Net Food Importing Developing Countries (NFIDCs)
-R?union
-Saint Helena
-Bonaire Sint Eustatius and Saba
-Anguilla
-Asia (excl. China and India)
-Europe (excl. EU-28)
-Taiwan
-Wallis and Futuna
-North America (excl. USA)
-Europe (excl. EU-27)
-European Union (28)
-Europe (EI)
-Other Europe (EI)
-North America (Ember)
-Africa (Ember)
-G20 (Ember)
-South and Central America (EI)
-Latin America and Caribbean (Ember)
-Europe (Ember)
-Other Middle East (EI)
-EU (Ember)
-Middle East (Ember)
 Africa (EI)
-G7 (Ember)
-Falkland Islands
-ASEAN (Ember)
-Non-OECD (EI)
-North America (EI)
-Reunion
-Asia Pacific (EI)
-Oceania (Ember)
-Other Asia Pacific (EI)
-Other CIS (EI)
-CIS (EI)
-Asia (Ember)
-OECD (Ember)
-Middle East (EI)
-OECD (EI)
-Scotland
-Northern Africa (FAO)
-Saint Barthelemy
-Europe (FAO)
+Africa (Ember)
 Africa (FAO)
-Asia (FAO)
-Caribbean (FAO)
-England
-Central America (FAO)
-Oceania (FAO)
-Vatican
-South America (FAO)
-Western Africa (EI)
-Other Southern Africa (EI)
-Other South America (EI)
-Eastern Africa (EI)
-Other Caribbean (EI)
-Other Northern Africa (EI)
-Central America (EI)
-Middle Africa (EI)
-Colombia (urban)
-Ethiopia (rural)
-China (urban)
-Argentina (urban)
-Honduras (urban)
-Micronesia (country) (urban)
-Rwanda (rural)
-Uruguay (urban)
-Bolivia (urban)
-China (rural)
-Suriname (urban)
-Ecuador (urban)
-West Bank and Gaza
-Réunion
-Falkland Islands, Malvinas 
-Netherlands Antilles
-Hong Kong, China
-Jersey
-Macao, China
-Curaçao
-Guernsey
-Occupied Palestinian Territory
-Taiwan, China
-Saint Martin (French Part)
-Latin America and the Caribbean
+Africa (WHO)
+Aland Islands
 Åland Islands
-French Southern Territories
-Svalbard and Jan Mayen Islands
-Bouvet Island
-Saint Barthélemy
-Christmas Island
-Heard Island and McDonald Islands
-Pitcairn
-South Georgia and the South Sandwich Islands
-Taiwan, Province of China
-United States Minor Outlying Islands
-Cocos (Keeling) Islands
-Oceania (excluding Australia and New Zealand)
-Western Asia and Northern Africa
-Chagos Archipelago
-China, Macao SAR
-Europe, Northern America, Australia and New Zealand
+American Samoa
+Americas
+Americas (WHO)
+Anguilla
 Antarctica
-Eastern Asia and South-eastern Asia
-Holy See
-Sark
-Central Asia and Southern Asia
-Northern America and Europe
+Argentina (urban)
+Aruba
+Ascension, Saint Helena and Tristan da Cunha
+ASEAN (Ember)
+Asia
+Asia (Ember)
+Asia (excl. China and India)
+Asia (FAO)
+Asia Pacific (EI)
+Australia and New Zealand
+Australia and New Zealand (UN)
+Austria-Hungary
+Belgium-Luxembourg
+Bermuda
+Bonaire Sint Eustatius and Saba
 Bonaire, Sint Eustatius and Saba
-United Republic of Tanzania, Zanzibar
-Sub-Saharan Africa (IDA & IBRD countries)
-Middle East & North Africa
-Europe & Central Asia (IDA & IBRD countries)
-Latin America & the Caribbean (IDA & IBRD countries)
-Middle East & North Africa (IDA & IBRD countries)
-East Asia & Pacific (IDA & IBRD countries)
-Middle East & North Africa (excluding high income)
-Virgin Islands (U.S.)
-Yugoslavia
-Ethiopia (former)
-occupied Palestinian territory, including east Jerusalem
-Middle East, North Africa, Afghanistan and Pakistan (WB)
+Bouvet Island
+British Indian Ocean Territory
+British Virgin Islands
+Caribbean
+Caribbean (FAO)
 Caucasus and Central Asia
-Eastern Asia (excluding Japan)
-Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)
-Northern Africa and Western Asia
-Small island developing States (SIDS)
-Europe and Northern America
-Eastern and South-Eastern Asia
-Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)
-Sub-Saharan Africa (inc. Sudan)
-Developing regions
+Cayman Islands
+Central America
+Central America (EI)
+Central America (FAO)
 Central and Southern Asia
-South-Eastern Asia
-Serbia and Montenegro [former]
-Northern Africa (exc. Sudan)
-Landlocked developing countries (LLDCs)
-Oceania (exc. Australia and New Zealand)
+Central and Southern Asia (SDG)
+Central and Southern Asia (UN)
+Central Asia
+Central Asia (UN)
+Central Asia and Southern Asia
+Chagos Archipelago
+Channel Islands
+China (rural)
+China (urban)
+China, Hong Kong SAR
+China, Macao SAR
+China, Taiwan Province of
+Christmas Island
+CIS (EI)
+Cocos (Keeling) Islands
+Cocos Islands
+Cook Islands
+Curacao
+Curaçao
+Czechoslovakia
+Democratic Republic of Vietnam
+Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)
+Developing regions
+Duchy of Modena and Reggio
+Duchy of Parma and Piacenza
+East Asia & Pacific (IDA & IBRD countries)
+East Asia and Pacific (WB)
+East Germany
+Eastern Africa
+Eastern Africa (EI)
+Eastern and South-Eastern Asia
+Eastern and South-Eastern Asia (SDG)
+Eastern Asia
+Eastern Asia (excluding Japan)
+Eastern Asia (UN)
+Eastern Asia and South-eastern Asia
+Eastern Asia and South-Eastern Asia (UN)
+Eastern Europe
+Eastern Mediterranean (WHO)
+Ecuador (urban)
+England
+Ethiopia (former)
+Ethiopia (rural)
+EU (Ember)
+Europe
+Europe (EI)
+Europe (Ember)
+Europe (excl. EU-27)
+Europe (excl. EU-28)
+Europe (FAO)
+Europe (WHO)
+Europe & Central Asia (IDA & IBRD countries)
+Europe and Central Asia (WB)
+Europe and Northern America
+Europe and Northern America (SDG)
+Europe, Northern America, Australia and New Zealand
+European Union (28)
+Faeroe Islands
+Falkland Islands
+Falkland Islands (Malvinas)
+Falkland Islands, Malvinas
+Faroe Islands
+Federal Republic of Central America
+French Guiana
+French Polynesia
+French Southern Territories
+G20 (Ember)
+G7 (Ember)
+Gibraltar
+Grand Duchy of Baden
+Grand Duchy of Tuscany
+Great Colombia
+Greenland
+Guadeloupe
+Guam
+Guernsey
+Heard Island and McDonald Islands
+High-income countries
+Holy See
+Honduras (urban)
+Hong Kong
+Hong Kong, China
+Isle of Man
+Jersey
+Kingdom of Bavaria
 Kingdom of Sardinia
 Kingdom of Saxony
-Cocos Islands
-Duchy of Parma and Piacenza
-Kingdom of Bavaria
-Grand Duchy of Baden
-Democratic Republic of Vietnam
-Republic of Vietnam
-Pakistan (former)
-Yemen People's Republic
-Yemen Arab Republic
-Kingdom of Wurttemberg
-Grand Duchy of Tuscany
-Orange Free State
-British Indian Ocean Territory
-West Germany
-Duchy of Modena and Reggio
-Korea (former)
-Great Colombia
-Austria-Hungary
-Federal Republic of Central America
-Aland Islands
-East Germany
 Kingdom of the Two Sicilies
-Taiwan (Province of China)
-Central and Southern Asia (SDG)
-Northern Africa and Western Asia (SDG)
-Eastern and South-Eastern Asia (SDG)
-Middle-income countries
-Europe and Northern America (SDG)
-Sub-Saharan Africa (SDG)
-Latin America and the Caribbean (SDG)
-State of Palestine
-Sudan [former]
-Sudan (former)
-OECD
+Kingdom of Wurttemberg
+Korea (former)
+Kosovo
 Land Locked Developing Countries
-Small Island Developing States
+Land Locked Developing Countries (LLDCs)
+Landlocked developing countries (LLDCs)
+Latin America & the Caribbean (IDA & IBRD countries)
+Latin America and Caribbean (Ember)
+Latin America and Caribbean (WB)
+Latin America and the Caribbean
+Latin America and the Caribbean (SDG)
+Latin America and the Caribbean (UN)
+Least Developed Countries (LDCs)
+Low Income Food Deficit Countries (LIFDCs)
+Low-income countries
+Lower-middle-income countries
+Macao
+Macao, China
+Martinique
+Mayotte
+Melanesia
+Micronesia (country) (urban)
+Middle Africa
+Middle Africa (EI)
+Middle East (EI)
+Middle East (Ember)
+Middle East & North Africa
+Middle East & North Africa (excluding high income)
+Middle East & North Africa (IDA & IBRD countries)
+Middle East and North Africa (WB)
+Middle East, North Africa, Afghanistan and Pakistan (WB)
+Middle-income countries
+Montserrat
+Net Food Importing Developing Countries (NFIDCs)
+Netherlands Antilles
+Netherlands Antilles (former)
+New Caledonia
+Niue
+Non-OECD (EI)
+Norfolk Island
+North America (EI)
+North America (Ember)
+North America (excl. USA)
+North America (WB)
+Northern Africa
+Northern Africa (exc. Sudan)
+Northern Africa (FAO)
+Northern Africa (UN)
+Northern Africa and Western Asia
+Northern Africa and Western Asia (SDG)
+Northern Africa and Western Asia (UN)
+Northern America
+Northern America and Europe
+Northern America and Europe (UN)
+Northern Europe
+Northern Mariana Islands
+Occupied Palestinian Territory
+occupied Palestinian territory, including east Jerusalem
+Oceania
+Oceania (Ember)
+Oceania (exc. Australia and New Zealand)
+Oceania (exc. Australia and New Zealand) (UN)
+Oceania (excluding Australia and New Zealand)
+Oceania (FAO)
+OECD
+OECD (EI)
+OECD (Ember)
+Orange Free State
+Other Asia Pacific (EI)
+Other Caribbean (EI)
+Other CIS (EI)
+Other Europe (EI)
+Other Middle East (EI)
+Other Northern Africa (EI)
+Other South America (EI)
+Other Southern Africa (EI)
+Pacific Islands Trust Territory
+Pakistan (former)
+Palestine
+Pitcairn
+Polynesia
+Puerto Rico
+R?union
+RÃ©union
+Republic of Vietnam
+Reunion
+Réunion
+Rwanda (rural)
+Saint Barthelemy
+Saint Barthélemy
+Saint Helena
+Saint Martin (French part)
+Saint Martin (French Part)
+Saint Pierre and Miquelon
+Sark
+Scotland
+Serbia and Montenegro
+Serbia and Montenegro [former]
+Sint Maarten (Dutch part)
+Small Island De
+Small Island Developing States (SIDS)
+Small island developing States (SIDS)
+South America
+South America (FAO)
+South and Central America (EI)
+South Asia (WB)
+South Georgia and the South Sandwich Islands
+South-East Asia (WHO)
+South-eastern Asia
+South-Eastern Asia
+South-Eastern Asia (UN)
+Southern Africa
+Southern Asia
+Southern Asia (UN)
+Southern Europe
+State of Palestine
+Sub-Saharan Africa (IDA & IBRD countries)
+Sub-Saharan Africa (inc. Sudan)
+Sub-Saharan Africa (SDG)
+Sub-Saharan Africa (UN)
+Sub-Saharan Africa (WB)
+Sudan (former)
+Sudan [former]
+Suriname (urban)
+Svalbard and Jan Mayen Islands
+Taiwan
+Taiwan (Province of China)
+Taiwan, China
+Taiwan, Province of China
+Tokelau
+Turks and Caicos Islands
+United Republic of Tanzania, Zanzibar
+United States Minor Outlying Islands
+United States Virgin Islands
+Upper-middle-income countries
+Uruguay (urban)
+USSR
+Vatican
+Virgin Islands (U.S.)
+Wallis and Futuna
+Wallis and Futuna Islands
+West Bank and Gaza
+West Germany
+Western Africa
+Western Africa (EI)
+Western Asia
+Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)
+Western Asia (UN)
+Western Asia and Northern Africa
+Western Europe
+Western Pacific (WHO)
+Western Sahara
+Yemen Arab Republic
+Yemen People's Republic
+Yugoslav SFR
+Yugoslavia
