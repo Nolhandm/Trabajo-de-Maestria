@@ -62,7 +62,7 @@
     "The Gambia": "Gambia, The",
     "Türkiye": "Turkiye",
     "Turkey": "Turkiye",
-    "T rkiye" : "Turkiye",
+    "T\\uFFFDrkiye": "Turkiye",
     "TÃ¼rkiye": "Turkiye",
     "T?rkiye": "Turkiye",
     "United Arab Emirates (the)": "United Arab Emirates",
