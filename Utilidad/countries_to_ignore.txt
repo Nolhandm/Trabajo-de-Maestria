@@ -1,7 +1,9 @@
+Advanced economies
 Africa
 Africa (EI)
 Africa (Ember)
 Africa (FAO)
+Africa (Region)
 Africa (WHO)
 Aland Islands
 Åland Islands
@@ -14,10 +16,12 @@ Argentina (urban)
 Aruba
 Ascension, Saint Helena and Tristan da Cunha
 ASEAN (Ember)
+ASEAN-5
 Asia
 Asia (Ember)
 Asia (excl. China and India)
 Asia (FAO)
+Asia and Pacific
 Asia Pacific (EI)
 Australia and New Zealand
 Australia and New Zealand (UN)
@@ -42,6 +46,7 @@ Central and Southern Asia (UN)
 Central Asia
 Central Asia (UN)
 Central Asia and Southern Asia
+Central Asia and the Caucasus
 Chagos Archipelago
 Channel Islands
 China (rural)
@@ -62,6 +67,7 @@ Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & 
 Developing regions
 Duchy of Modena and Reggio
 Duchy of Parma and Piacenza
+East Asia
 East Asia & Pacific (IDA & IBRD countries)
 East Asia and Pacific (WB)
 East Germany
@@ -75,8 +81,12 @@ Eastern Asia (UN)
 Eastern Asia and South-eastern Asia
 Eastern Asia and South-Eastern Asia (UN)
 Eastern Europe
+Eastern Europe
 Eastern Mediterranean (WHO)
 Ecuador (urban)
+Emerging and Developing Asia
+Emerging and Developing Europe
+Emerging market and developing economies
 England
 Ethiopia (former)
 Ethiopia (rural)
@@ -119,6 +129,7 @@ High-income countries
 Holy See
 Honduras (urban)
 Hong Kong
+Hong Kong SAR
 Hong Kong, China
 Isle of Man
 Jersey
@@ -144,7 +155,9 @@ Low Income Food Deficit Countries (LIFDCs)
 Low-income countries
 Lower-middle-income countries
 Macao
+Macao SAR
 Macao, China
+Major advanced economies (G7)
 Martinique
 Mayotte
 Melanesia
@@ -153,9 +166,11 @@ Middle Africa
 Middle Africa (EI)
 Middle East (EI)
 Middle East (Ember)
+Middle East (Region)
 Middle East & North Africa
 Middle East & North Africa (excluding high income)
 Middle East & North Africa (IDA & IBRD countries)
+Middle East and Central Asia
 Middle East and North Africa (WB)
 Middle East, North Africa, Afghanistan and Pakistan (WB)
 Middle-income countries
@@ -167,6 +182,7 @@ New Caledonia
 Niue
 Non-OECD (EI)
 Norfolk Island
+North Africa
 North America (EI)
 North America (Ember)
 North America (excl. USA)
@@ -195,6 +211,7 @@ OECD
 OECD (EI)
 OECD (Ember)
 Orange Free State
+Other advanced economies
 Other Asia Pacific (EI)
 Other Caribbean (EI)
 Other CIS (EI)
@@ -203,6 +220,7 @@ Other Middle East (EI)
 Other Northern Africa (EI)
 Other South America (EI)
 Other Southern Africa (EI)
+Pacific Islands
 Pacific Islands Trust Territory
 Pakistan (former)
 Palestine
@@ -239,6 +257,7 @@ South-East Asia (WHO)
 South-eastern Asia
 South-Eastern Asia
 South-Eastern Asia (UN)
+Southeast Asia
 Southern Africa
 Southern Asia
 Southern Asia (UN)
@@ -246,6 +265,7 @@ Southern Europe
 State of Palestine
 Sub-Saharan Africa (IDA & IBRD countries)
 Sub-Saharan Africa (inc. Sudan)
+Sub-Saharan Africa (Region)
 Sub-Saharan Africa (SDG)
 Sub-Saharan Africa (UN)
 Sub-Saharan Africa (WB)
@@ -255,6 +275,7 @@ Suriname (urban)
 Svalbard and Jan Mayen Islands
 Taiwan
 Taiwan (Province of China)
+Taiwan Province of China', 'Korea, Republic of
 Taiwan, China
 Taiwan, Province of China
 Tokelau
@@ -278,6 +299,7 @@ Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)
 Western Asia (UN)
 Western Asia and Northern Africa
 Western Europe
+Western Hemisphere (Region)
 Western Pacific (WHO)
 Western Sahara
 Yemen Arab Republic
