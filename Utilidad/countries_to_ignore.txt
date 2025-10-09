@@ -81,7 +81,6 @@ Eastern Asia (UN)
 Eastern Asia and South-eastern Asia
 Eastern Asia and South-Eastern Asia (UN)
 Eastern Europe
-Eastern Europe 
 Eastern Mediterranean (WHO)
 Ecuador (urban)
 Emerging and Developing Asia
@@ -220,7 +219,7 @@ Other Middle East (EI)
 Other Northern Africa (EI)
 Other South America (EI)
 Other Southern Africa (EI)
-Pacific Islands 
+Pacific Islands
 Pacific Islands Trust Territory
 Pakistan (former)
 Palestine
@@ -265,7 +264,7 @@ Southern Europe
 State of Palestine
 Sub-Saharan Africa (IDA & IBRD countries)
 Sub-Saharan Africa (inc. Sudan)
-Sub-Saharan Africa (Region) 
+Sub-Saharan Africa (Region)
 Sub-Saharan Africa (SDG)
 Sub-Saharan Africa (UN)
 Sub-Saharan Africa (WB)
