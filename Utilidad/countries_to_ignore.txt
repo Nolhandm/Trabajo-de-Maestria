@@ -3,6 +3,7 @@ Africa
 Africa (EI)
 Africa (Ember)
 Africa (FAO)
+Africa (population-weighted)
 Africa (Region)
 Africa (WHO)
 Aland Islands
@@ -21,11 +22,14 @@ Asia
 Asia (Ember)
 Asia (excl. China and India)
 Asia (FAO)
+Asia (population-weighted)
 Asia and Pacific
 Asia Pacific (EI)
 Australia and New Zealand
 Australia and New Zealand (UN)
 Austria-Hungary
+Baden
+Bavaria
 Belgium-Luxembourg
 Bermuda
 Bonaire Sint Eustatius and Saba
@@ -33,6 +37,7 @@ Bonaire, Sint Eustatius and Saba
 Bouvet Island
 British Indian Ocean Territory
 British Virgin Islands
+Brunswick
 Caribbean
 Caribbean (FAO)
 Caucasus and Central Asia
@@ -66,6 +71,7 @@ Democratic Republic of Vietnam
 Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)
 Developing regions
 Duchy of Modena and Reggio
+Duchy of Nassau
 Duchy of Parma and Piacenza
 East Asia
 East Asia & Pacific (IDA & IBRD countries)
@@ -96,6 +102,7 @@ Europe (Ember)
 Europe (excl. EU-27)
 Europe (excl. EU-28)
 Europe (FAO)
+Europe (population-weighted)
 Europe (WHO)
 Europe & Central Asia (IDA & IBRD countries)
 Europe and Central Asia (WB)
@@ -123,7 +130,11 @@ Greenland
 Guadeloupe
 Guam
 Guernsey
+Hamburg
+Hanover
 Heard Island and McDonald Islands
+Hesse Electoral
+Hesse Grand Ducal
 High-income countries
 Holy See
 Honduras (urban)
@@ -159,6 +170,7 @@ Macao, China
 Major advanced economies (G7)
 Martinique
 Mayotte
+Mecklenburg Schwerin
 Melanesia
 Micronesia (country) (urban)
 Middle Africa
@@ -173,6 +185,7 @@ Middle East and Central Asia
 Middle East and North Africa (WB)
 Middle East, North Africa, Afghanistan and Pakistan (WB)
 Middle-income countries
+Modena
 Montserrat
 Net Food Importing Developing Countries (NFIDCs)
 Netherlands Antilles
@@ -185,6 +198,7 @@ North Africa
 North America (EI)
 North America (Ember)
 North America (excl. USA)
+North America (population-weighted)
 North America (WB)
 Northern Africa
 Northern Africa (exc. Sudan)
@@ -206,9 +220,11 @@ Oceania (exc. Australia and New Zealand)
 Oceania (exc. Australia and New Zealand) (UN)
 Oceania (excluding Australia and New Zealand)
 Oceania (FAO)
+Oceania (population-weighted)
 OECD
 OECD (EI)
 OECD (Ember)
+Oldenburg
 Orange Free State
 Other advanced economies
 Other Asia Pacific (EI)
@@ -223,6 +239,10 @@ Pacific Islands
 Pacific Islands Trust Territory
 Pakistan (former)
 Palestine
+Palestine/Gaza
+Palestine/West Bank
+Parma
+Piedmont-Sardinia
 Pitcairn
 Polynesia
 Puerto Rico
@@ -239,6 +259,8 @@ Saint Martin (French part)
 Saint Martin (French Part)
 Saint Pierre and Miquelon
 Sark
+Saxe-Weimar-Eisenach
+Saxony
 Scotland
 Serbia and Montenegro
 Serbia and Montenegro [former]
@@ -247,8 +269,10 @@ Small Island De
 Small Island Developing States
 Small Island Developing States (SIDS)
 Small island developing States (SIDS)
+Somaliland
 South America
 South America (FAO)
+South America (population-weighted)
 South and Central America (EI)
 South Asia (WB)
 South Georgia and the South Sandwich Islands
@@ -279,6 +303,8 @@ Taiwan, China
 Taiwan, Province of China
 Tokelau
 Turks and Caicos Islands
+Tuscany
+Two Sicilies
 United Republic of Tanzania, Zanzibar
 United States Minor Outlying Islands
 United States Virgin Islands
@@ -301,7 +327,10 @@ Western Europe
 Western Hemisphere (Region)
 Western Pacific (WHO)
 Western Sahara
+World (population-weighted)
+Wurttemberg
 Yemen Arab Republic
 Yemen People's Republic
 Yugoslav SFR
 Yugoslavia
+Zanzibar
