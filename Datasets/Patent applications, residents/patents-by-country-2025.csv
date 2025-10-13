@@ -1,136 +1,157 @@
-"flagCode","country","TotalPatentGrants_2023","TotalPatentApplications_2023"
-"CN","China",798347,1619268
-"US","United States",323410,594340
-"JP","Japan",201420,289530
-"KR","South Korea",135180,237633
-"IN","India",30490,77068
-"DE","Germany",23592,57213
-"BR","Brazil",23546,24759
-"RU","Russia",23315,26924
-"CA","Canada",18125,38052
-"AU","Australia",16407,32284
-"FR","France",12421,14746
-"HK","Hong Kong",11602,20164
-"ZA","South Africa",11267,13990
-"GB","United Kingdom",10578,19485
-"ID","Indonesia",9970,9967
-"MX","Mexico",9698,16605
-"IT","Italy",7348,9221
-"MY","Malaysia",5957,7374
-"IL","Israel",5358,10073
-"SG","Singapore",3886,14653
-"VN","Vietnam",3868,8707
-"TR","Turkey",3449,9119
-"SA","Saudi Arabia",2684,5837
-"CL","Chile",2668,3136
-"PL","Poland",2290,3323
-"IR","Iran",2250,8681
-"TH","Thailand",2213,8607
-"NZ","New Zealand",2176,7043
-"PH","Philippines",2004,4765
-"AR","Argentina",1949,3576
-"LU","Luxembourg",1884,2093
-"UA","Ukraine",1566,2760
-"AT","Austria",1151,1887
-"CO","Colombia",1136,3032
-"NG","Nigeria",1081,1104
-"BE","Belgium",1081,1207
-"AE","United Arab Emirates",1048,2848
-"SE","Sweden",799,2180
-"CH","Switzerland",782,1546
-"NO","Norway",761,1410
-"ES","Spain",714,1318
-"FI","Finland",677,1447
-"DZ","Algeria",610,1118
-"PE","Peru",588,1449
-"KZ","Kazakhstan",585,838
-"MA","Morocco",579,2913
-"UZ","Uzbekistan",559,674
-"EG","Egypt",495,1914
-"SM","San Marino",467,502
-"DK","Denmark",398,1227
-"RO","Romania",364,843
-"VE","Venezuela",317,230
-"BY","Belarus",302,342
-"GR","Greece",224,1085
-"BH","Bahrain",197,489
-"SI","Slovenia",195,246
-"PK","Pakistan",189,908
-"LK","Sri Lanka",186,431
-"DO","Dominican Republic",184,241
-"CR","Costa Rica",156,586
-"KH","Cambodia",150,162
-"HU","Hungary",132,501
-"GE","Georgia",122,241
-"MN","Mongolia",118,192
-"AZ","Azerbaijan",108,213
-"HN","Honduras",107,194
-"PT","Portugal",104,745
-"SK","Slovakia",95,203
-"LT","Lithuania",93,77
-"BG","Bulgaria",78,171
-"LV","Latvia",71,112
-"SY","Syria",65,139
-"SC","Seychelles",62,25
-"JO","Jordan",61,350
-"BN","Brunei",60,155
-"MG","Madagascar",55,32
-"SV","El Salvador",54,149
-"TT","Trinidad and Tobago",49,149
-"GT","Guatemala",47,289
-"KG","Kyrgyzstan",47,71
-"GM","Gambia",45,88
-"AO","Angola",43,80
-"MD","Moldova",43,59
-"EC","Ecuador",41,509
-"KE","Kenya",38,417
-"IE","Ireland",37,89
-"ZW","Zimbabwe",36,41
-"LA","Laos",36,61
-"TZ","Tanzania",34,62
-"PY","Paraguay",34,371
-"RS","Serbia",30,148
-"NA","Namibia",29,32
-"MK","North Macedonia",29,24
-"ET","Ethiopia",23,64
-"OM","Oman",23,530
-"KW","Kuwait",19,734
-"VC","Saint Vincent and the Grenadines",18,1
-"PG","Papua New Guinea",14,32
-"MT","Malta",13,16
-"ZM","Zambia",12,19
-"ST","Sao Tome and Principe",12,12
-"HR","Croatia",11,130
-"JM","Jamaica",11,19
-"IS","Iceland",10,39
-"EE","Estonia",9,15
-"TV","Tuvalu",9,9
-"TJ","Tajikistan",8,3
-"BA","Bosnia and Herzegovina",7,51
-"ME","Montenegro",7,7
-"RW","Rwanda",6,12
-"AD","Andorra",5,8
-"AL","Albania",4,21
-"BZ","Belize",4,32
-"YE","Yemen",3,15
-"BO","Bolivia",3,226
-"AM","Armenia",3,34
-"DJ","Djibouti",2,7
-"BT","Bhutan",2,5
-"MO","Macau",2,31
-"MC","Monaco",2,4
-"CY","Cyprus",1,7
-"MU","Mauritius",1,8
-"BD","Bangladesh",,418
-"UG","Uganda",,11
-"MZ","Mozambique",,41
-"GH","Ghana",,21
-"TN","Tunisia",,366
-"TM","Turkmenistan",,62
-"BW","Botswana",,13
-"CV","Cape Verde",,3
-"BB","Barbados",,60
-"GD","Grenada",,17
-"AG","Antigua and Barbuda",,6
-"DM","Dominica",,2
-,"Total",1729140,3244273
+"flagCode","country","TotalPatentGrants_2023","TotalPatentApplications_2023","TotalPatentApplications_2022","TotalPatentApplications_2021"
+"CN","China",798347,1619268,1586339,1538604
+"US","United States",323410,594340,515281,509962
+"JP","Japan",201420,289530,406374,412885
+"KR","South Korea",135180,237633,272675,267527
+"IN","India",30490,77068,56396,43163
+"DE","Germany",23592,57213,157652,165826
+"BR","Brazil",23546,24759,6984,6909
+"RU","Russia",23315,26924,25188,25904
+"CA","Canada",18125,38052,25562,26525
+"AU","Australia",16407,32284,11707,12825
+"FR","France",12421,14746,66446,66137
+"HK","Hong Kong",11602,20164,2459,3261
+"ZA","South Africa",11267,13990,2619,2751
+"GB","United Kingdom",10578,19485,54620,53650
+"ID","Indonesia",9970,9967,1607,1445
+"MX","Mexico",9698,16605,1815,1994
+"IT","Italy",7348,9221,32021,34206
+"MY","Malaysia",5957,7374,1760,1863
+"IL","Israel",5358,10073,17327,17341
+"SG","Singapore",3886,14653,8599,9766
+"VN","Vietnam",3868,8707,1057,1205
+"TR","Turkey",3449,9119,11114,10869
+"SA","Saudi Arabia",2684,5837,5019,4868
+"CL","Chile",2668,3136,823,930
+"PL","Poland",2290,3323,6073,5916
+"IR","Iran",2250,8681,8391,10350
+"TH","Thailand",2213,8607,1416,1548
+"NZ","New Zealand",2176,7043,2588,2682
+"PH","Philippines",2004,4765,674,695
+"AR","Argentina",1949,3576,763,717
+"LU","Luxembourg",1884,2093,2580,2725
+"UA","Ukraine",1566,2760,1080,1706
+"AT","Austria",1151,1887,13655,13472
+"CO","Colombia",1136,3032,1317,692
+"NG","Nigeria",1081,1104,,
+"BE","Belgium",1081,1207,14290,13966
+"AE","United Arab Emirates",1048,2848,843,655
+"SE","Sweden",799,2180,28184,27802
+"CH","Switzerland",782,1546,51445,48336
+"NO","Norway",761,1410,5974,5841
+"ES","Spain",714,1318,10518,10880
+"FI","Finland",677,1447,12972,12826
+"DZ","Algeria",610,1118,483,281
+"PE","Peru",588,1449,234,160
+"KZ","Kazakhstan",585,838,1297,
+"MA","Morocco",579,2913,363,399
+"UZ","Uzbekistan",559,674,475,428
+"EG","Egypt",495,1914,866,997
+"SM","San Marino",467,502,48,58
+"DK","Denmark",398,1227,14525,14100
+"RO","Romania",364,843,1140,1114
+"VE","Venezuela",317,230,29,
+"BY","Belarus",302,342,980,1118
+"GR","Greece",224,1085,1238,1387
+"BH","Bahrain",197,489,30,17
+"SI","Slovenia",195,246,811,744
+"PK","Pakistan",189,908,416,491
+"LK","Sri Lanka",186,431,260,329
+"DO","Dominican Republic",184,241,51,46
+"CR","Costa Rica",156,586,135,130
+"KH","Cambodia",150,162,41,
+"HU","Hungary",132,501,1145,1466
+"GE","Georgia",122,241,97,132
+"MN","Mongolia",118,192,138,113
+"AZ","Azerbaijan",108,213,531,338
+"HN","Honduras",107,194,2,2
+"PT","Portugal",104,745,2035,1986
+"SK","Slovakia",95,203,557,414
+"LT","Lithuania",93,77,642,477
+"BG","Bulgaria",78,171,548,466
+"LV","Latvia",71,112,246,281
+"SY","Syria",65,139,131,106
+"SC","Seychelles",62,25,46,51
+"JO","Jordan",61,350,64,53
+"BN","Brunei",60,155,1,5
+"MG","Madagascar",55,32,9,6
+"SV","El Salvador",54,149,4,2
+"TT","Trinidad and Tobago",49,149,7,15
+"GT","Guatemala",47,289,12,15
+"KG","Kyrgyzstan",47,71,132,120
+"GM","Gambia",45,88,,
+"AO","Angola",43,80,82,
+"MD","Moldova",43,59,54,75
+"EC","Ecuador",41,509,45,51
+"KE","Kenya",38,417,396,199
+"IE","Ireland",37,89,7464,7061
+"ZW","Zimbabwe",36,41,41,
+"LA","Laos",36,61,,
+"TZ","Tanzania",34,62,,
+"PY","Paraguay",34,371,11,14
+"RS","Serbia",30,148,230,271
+"NA","Namibia",29,32,39,
+"MK","North Macedonia",29,24,53,73
+"ET","Ethiopia",23,64,39,
+"OM","Oman",23,530,88,100
+"KW","Kuwait",19,734,,
+"VC","Saint Vincent and the Grenadines",18,1,2,
+"PG","Papua New Guinea",14,32,4,4
+"MT","Malta",13,16,441,407
+"ZM","Zambia",12,19,14,15
+"ST","Sao Tome and Principe",12,12,,
+"HR","Croatia",11,130,290,304
+"JM","Jamaica",11,19,13,23
+"IS","Iceland",10,39,313,371
+"EE","Estonia",9,15,273,350
+"TV","Tuvalu",9,9,,
+"TJ","Tajikistan",8,3,33,97
+"BA","Bosnia and Herzegovina",7,51,73,64
+"ME","Montenegro",7,7,11,
+"RW","Rwanda",6,12,9,16
+"AD","Andorra",5,8,19,27
+"AL","Albania",4,21,35,39
+"BZ","Belize",4,32,17,21
+"YE","Yemen",3,15,13,22
+"BO","Bolivia",3,226,14,6
+"AM","Armenia",3,34,71,106
+"DJ","Djibouti",2,7,1,3
+"BT","Bhutan",2,5,1,
+"MO","Macau",2,31,27,163
+"MC","Monaco",2,4,154,137
+"CY","Cyprus",1,7,295,417
+"MU","Mauritius",1,8,401,165
+"BD","Bangladesh",,418,90,91
+"UG","Uganda",,11,16,20
+"MZ","Mozambique",,41,25,30
+"GH","Ghana",,21,11,
+"CI","Ivory Coast",,,562,697
+"CM","Cameroon",,,803,1074
+"NE","Niger",,,87,68
+"ML","Mali",,,55,194
+"BF","Burkina Faso",,,104,85
+"TD","Chad",,,119,51
+"SN","Senegal",,,583,606
+"NL","Netherlands",,,32738,32779
+"GN","Guinea",,,51,52
+"BJ","Benin",,,71,171
+"TN","Tunisia",,366,225,
+"CU","Cuba",,,,112
+"TG","Togo",,,85,81
+"TM","Turkmenistan",,62,,
+"CG","Republic of the Congo",,,52,71
+"CF","Central African Republic",,,,17
+"MR","Mauritania",,,85,36
+"PA","Panama",,,,70
+"QA","Qatar",,,,121
+"GA","Gabon",,,103,359
+"BW","Botswana",,13,17,4
+"GY","Guyana",,,,40
+"CV","Cape Verde",,3,2,1
+"BB","Barbados",,60,,767
+"WS","Samoa",,,,17
+"GD","Grenada",,17,,1
+"AG","Antigua and Barbuda",,6,153,408
+"DM","Dominica",,2,1,5
+"LI","Liechtenstein",,,1480,1482
+,"Total",1729140,3244273,3512560,3459183
