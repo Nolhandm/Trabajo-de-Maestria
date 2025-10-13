@@ -6,6 +6,8 @@ Africa (FAO)
 Africa (population-weighted)
 Africa (Region)
 Africa (WHO)
+Africa Eastern and Southern
+Africa Western and Central
 Aland Islands
 Åland Islands
 American Samoa
@@ -140,6 +142,7 @@ Holy See
 Honduras (urban)
 Hong Kong
 Hong Kong SAR
+Hong Kong SAR, China
 Hong Kong, China
 Isle of Man
 Jersey
@@ -166,6 +169,7 @@ Low-income countries
 Lower-middle-income countries
 Macao
 Macao SAR
+Macao SAR, China
 Macao, China
 Macau
 Major advanced economies (G7)
@@ -213,6 +217,7 @@ Northern America and Europe
 Northern America and Europe (UN)
 Northern Europe
 Northern Mariana Islands
+Not classified
 Occupied Palestinian Territory
 occupied Palestinian territory, including east Jerusalem
 Oceania
@@ -247,6 +252,7 @@ Piedmont-Sardinia
 Pitcairn
 Polynesia
 Puerto Rico
+Puerto Rico (US)
 R?union
 RÃ©union
 Republic of Vietnam
@@ -286,6 +292,7 @@ Southern Africa
 Southern Asia
 Southern Asia (UN)
 Southern Europe
+St. Martin (French part)
 State of Palestine
 Sub-Saharan Africa (IDA & IBRD countries)
 Sub-Saharan Africa (inc. Sudan)
