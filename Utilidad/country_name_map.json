@@ -171,10 +171,6 @@
 "Norvège": "Norway",
 "Nouvelle-Calédonie": "New Caledonia",
 "Nouvelle-Zélande": "New Zealand",
-"OCDE Amérique": "OECD America",
-"OCDE Asie Océanie": "OECD Asia Oceania",
-"OCDE Europe": "OECD Europe",
-"OCDE": "OECD",
 "Oman": "Oman",
 "Ouganda": "Uganda",
 "Ouzbékistan": "Uzbekistan",
@@ -279,6 +275,5 @@
 "Yemen": "Yemen, Rep.",
 "Yémen": "Yemen, Rep.",
 "Zambie": "Zambia",
-"Zimbabwe": "Zimbabwe",
-"Zone euro (20 pays)": "Euro area (20 countries)"
+"Zimbabwe": "Zimbabwe"
 }
