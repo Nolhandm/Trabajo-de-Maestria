@@ -265,6 +265,7 @@ Rwanda (rural)
 Saint Barthelemy
 Saint Barthélemy
 Saint Helena
+Saint Helena, Ascension and Tristan da Cunha
 Saint Martin (French part)
 Saint Martin (French Part)
 Saint Pierre and Miquelon
@@ -307,6 +308,7 @@ Sudan (former)
 Sudan [former]
 Suriname (urban)
 Svalbard and Jan Mayen Islands
+SXM
 Taipei chinois
 Taiwan
 Taiwan (Province of China)
@@ -314,6 +316,7 @@ Taiwan Province of China
 Taiwan, China
 Taiwan, Province of China
 Tokelau
+TKL
 Turks and Caicos Islands
 Tuscany
 Two Sicilies
