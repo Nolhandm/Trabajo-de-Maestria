@@ -222,6 +222,7 @@ Northern Mariana Islands
 Not classified
 Occupied Palestinian Territory
 occupied Palestinian territory, including east Jerusalem
+OCDE
 Oceania
 Oceania (Ember)
 Oceania (exc. Australia and New Zealand)
@@ -306,6 +307,7 @@ Sudan (former)
 Sudan [former]
 Suriname (urban)
 Svalbard and Jan Mayen Islands
+Taipei chinois
 Taiwan
 Taiwan (Province of China)
 Taiwan Province of China
@@ -315,6 +317,7 @@ Tokelau
 Turks and Caicos Islands
 Tuscany
 Two Sicilies
+Union européenne (27 pays à partir du 01/02/2020)
 United Republic of Tanzania, Zanzibar
 United States Minor Outlying Islands
 United States Virgin Islands
