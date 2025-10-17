@@ -97,6 +97,7 @@ Emerging market and developing economies
 England
 Ethiopia (former)
 Ethiopia (rural)
+EU
 EU (Ember)
 Europe
 Europe (EI)
@@ -153,6 +154,7 @@ Kingdom of the Two Sicilies
 Kingdom of Wurttemberg
 Korea (former)
 Kosovo
+Kosovo*
 Land Locked Developing Countries
 Land Locked Developing Countries (LLDCs)
 Landlocked developing countries (LLDCs)
