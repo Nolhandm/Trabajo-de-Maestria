@@ -1,0 +1,29 @@
+#VALUE!,
+,
+,
+,
+,
+,
+Last updated: ,"September 22, 2025"
+Compiled by:,Sovereign ESG Data Portal team 
+,
+"This document brings together every indicator currently available on esgdataportal.worldbank.org. It includes both the core ESG Framework indicators and supplementary datasets, such as Country Key Statistics (such as GDP, population growth) and Wealth Accounting data (including Human Capital and the National comprehensive wealth index). The first sheet shows the indicators currently included in the ESG Framework, organized by Environmental, Social and Governance pillars and subdivided into thematic groups (e.g. ""Emissions & pollution""). The second sheet displays the country metadata, showing their income group, geographical region and climate classification. The last sheet includes the complete time-series dataset for every indicator. 
+
+For questions or support, please contact the Sovereign ESG Data Portal team at esgdata@worldbank.org. ",
+Sheet name,Description
+Framework,A description of indicators in the ESG Framework. 
+Metadata,"Country metadata, including ISO3 codes, geographic regions, income groups and Koeppen climate groups."
+Data,Panel data timeseries values by country/indicator. 
+,
+,
+Data overview , 
+Number of countries,214
+Number of indicators,191
+Time span,1960-2024
+,
+,
+Contact,esgdata@worldbank.org
+Website,www.esgdata.worldbank.org
+Note,"The income and regional classifications in this file follow the World Bank Country and Lending Groups classification (1), as of September 2025. Climate classifications are drawn from the current Köppen–Geiger climate system (2). Please note that both sets of classifications are subject to change over time."
+References,"(1) https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups
+(2) https://koeppen-geiger.vu-wien.ac.at/present.htm "
